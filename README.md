@@ -33,2281 +33,2737 @@ WSGI не делал, debug=True оставил. Без нормального �
     "task_1": {
         "pages": [
             {
-                "text": "MEMORANDUM July 29, 1983 To: R. D, Sharp cc: M. J. Novak FROM: Gustafson SUBJECT: BATTLE KIT SUPPORT HISTORY PURPOSE: Response to your request for past levels of suppart - for Battle Kit. DISCUSSION: BATTLE KIT BUDGET HISTORY PROPOSED 1980 1981 1982 1983 1984 1.754M 1,274MM BATTLE KIT ITEM HISTORY 1980 1981 1982 1983 1984 2.2994M 3.755MM 2.992MM \u201cBased on budget and .61 average cost per : item in 1983, Because there are so many contradictory recards on past Battle Kit items, it is impossiple to determine the actual figures for 1980 and 1981. The budget figures represent the amount spent on @attle Kit in a given year. The item amounts represent what was available for use in a given yeat, some of which were carried over from previous years and SMP pragrams. a x Let me know if you need additional information. rey g",
+                "text": "BROWN & WILLLAMSON TOBACCO CORPORATION RESEARCH, DEVELOPMENT & ENGINEERING TELEPHONE CONVERSATION KIMBERLY-CLARK/275 CONTACT: Ron Frear DATE: September 10, 1985 ce: Me. E. E. Kohnhorst, Mr. L. Reynolds, Or. J. N. Jewell, Mr. T. F. Riehl, Dr. &. F. Litzinger, Or. B. Chakraborty, Me. G. Strubel, Mr. L. T. Haag { talked with R. Frear on September 4th concerning reconstituted tobacco. R. Frear has arranged a mecting in Spotswood, NJ on September 26th. Attending for Kinberly-Clark witl be tte, Azeez, Mr. Frear, Dr. Cartwright, Mr. Natina, and Ur. Moskal. Currently will be represented by Dr. Chakraborty, Dr. Litzingec, Mr. and aysetf. \u2018The topics for the mecting are: 1, Further improvements in EER. 2, Quality control of ceconstituted tobaccos. Ne. R. Frear told me that the Kimberly-Clark plant will have a report available for us at the meeting oa improving EBR uniformity by changing or better controlling process paraneters. { reminded Mr, Frear that we had not as yet received the minutes From our first research program on reconstituted tobacco. Mr. Frear stated he had seen a draft and he believed that the draft was being reviewed by Dr. Todd. We can expect the draft minutes shortly. Dr. J. G. 09375 R a .",
                 "tokens": [
                     {
-                        "text": "MEMORANDUM",
+                        "text": "BROWN",
                         "position": {
-                            "left": 145.0,
-                            "top": 86.0,
-                            "width": 88.0,
-                            "height": 11.0
+                            "left": 236.0,
+                            "top": 88.0,
+                            "width": 36.0,
+                            "height": 10.0
                         },
                         "offset": 0
                     },
                     {
-                        "text": "July",
+                        "text": "&",
                         "position": {
-                            "left": 145.0,
-                            "top": 116.0,
-                            "width": 33.0,
-                            "height": 14.0
+                            "left": 281.0,
+                            "top": 88.0,
+                            "width": 6.0,
+                            "height": 9.0
                         },
-                        "offset": 11
+                        "offset": 6
                     },
                     {
-                        "text": "29,",
+                        "text": "WILLLAMSON",
                         "position": {
-                            "left": 190.0,
-                            "top": 117.0,
-                            "width": 23.0,
-                            "height": 13.0
-                        },
-                        "offset": 16
-                    },
-                    {
-                        "text": "1983",
-                        "position": {
-                            "left": 226.0,
-                            "top": 117.0,
-                            "width": 35.0,
-                            "height": 11.0
-                        },
-                        "offset": 20
-                    },
-                    {
-                        "text": "To:",
-                        "position": {
-                            "left": 145.0,
-                            "top": 177.0,
-                            "width": 22.0,
-                            "height": 11.0
-                        },
-                        "offset": 25
-                    },
-                    {
-                        "text": "R.",
-                        "position": {
-                            "left": 226.0,
-                            "top": 178.0,
-                            "width": 14.0,
-                            "height": 11.0
-                        },
-                        "offset": 29
-                    },
-                    {
-                        "text": "D,",
-                        "position": {
-                            "left": 253.0,
-                            "top": 178.0,
-                            "width": 14.0,
-                            "height": 11.0
-                        },
-                        "offset": 32
-                    },
-                    {
-                        "text": "Sharp",
-                        "position": {
-                            "left": 280.0,
-                            "top": 178.0,
-                            "width": 43.0,
-                            "height": 13.0
-                        },
-                        "offset": 35
-                    },
-                    {
-                        "text": "cc:",
-                        "position": {
-                            "left": 144.0,
-                            "top": 207.0,
-                            "width": 23.0,
-                            "height": 11.0
-                        },
-                        "offset": 41
-                    },
-                    {
-                        "text": "M.",
-                        "position": {
-                            "left": 225.0,
-                            "top": 208.0,
-                            "width": 15.0,
+                            "left": 296.0,
+                            "top": 88.0,
+                            "width": 75.0,
                             "height": 10.0
                         },
-                        "offset": 45
+                        "offset": 8
                     },
                     {
-                        "text": "J.",
+                        "text": "TOBACCO",
                         "position": {
-                            "left": 253.0,
-                            "top": 208.0,
-                            "width": 14.0,
+                            "left": 379.0,
+                            "top": 88.0,
+                            "width": 52.0,
+                            "height": 10.0
+                        },
+                        "offset": 19
+                    },
+                    {
+                        "text": "CORPORATION",
+                        "position": {
+                            "left": 440.0,
+                            "top": 88.0,
+                            "width": 81.0,
+                            "height": 10.0
+                        },
+                        "offset": 27
+                    },
+                    {
+                        "text": "RESEARCH,",
+                        "position": {
+                            "left": 248.0,
+                            "top": 120.0,
+                            "width": 66.0,
                             "height": 11.0
                         },
-                        "offset": 48
+                        "offset": 39
                     },
                     {
-                        "text": "Novak",
+                        "text": "DEVELOPMENT",
                         "position": {
-                            "left": 280.0,
-                            "top": 208.0,
-                            "width": 43.0,
-                            "height": 11.0
+                            "left": 324.0,
+                            "top": 120.0,
+                            "width": 82.0,
+                            "height": 10.0
                         },
-                        "offset": 51
+                        "offset": 49
                     },
                     {
-                        "text": "FROM:",
+                        "text": "&",
                         "position": {
-                            "left": 144.0,
-                            "top": 237.0,
-                            "width": 41.0,
-                            "height": 11.0
+                            "left": 414.0,
+                            "top": 120.0,
+                            "width": 7.0,
+                            "height": 9.0
                         },
-                        "offset": 57
+                        "offset": 61
                     },
                     {
-                        "text": "Gustafson",
+                        "text": "ENGINEERING",
                         "position": {
-                            "left": 280.0,
-                            "top": 238.0,
-                            "width": 79.0,
-                            "height": 11.0
+                            "left": 430.0,
+                            "top": 120.0,
+                            "width": 81.0,
+                            "height": 10.0
                         },
                         "offset": 63
                     },
                     {
-                        "text": "SUBJECT:",
+                        "text": "TELEPHONE",
                         "position": {
-                            "left": 143.0,
-                            "top": 267.0,
-                            "width": 69.0,
-                            "height": 11.0
+                            "left": 297.0,
+                            "top": 152.0,
+                            "width": 67.0,
+                            "height": 9.0
                         },
-                        "offset": 73
+                        "offset": 75
                     },
                     {
-                        "text": "BATTLE",
+                        "text": "CONVERSATION",
                         "position": {
-                            "left": 225.0,
-                            "top": 268.0,
-                            "width": 52.0,
+                            "left": 372.0,
+                            "top": 152.0,
+                            "width": 90.0,
+                            "height": 9.0
+                        },
+                        "offset": 85
+                    },
+                    {
+                        "text": "KIMBERLY-CLARK/275",
+                        "position": {
+                            "left": 199.0,
+                            "top": 197.0,
+                            "width": 135.0,
+                            "height": 11.0
+                        },
+                        "offset": 98
+                    },
+                    {
+                        "text": "CONTACT:",
+                        "position": {
+                            "left": 109.0,
+                            "top": 230.0,
+                            "width": 58.0,
                             "height": 10.0
                         },
-                        "offset": 82
+                        "offset": 117
                     },
                     {
-                        "text": "KIT",
+                        "text": "Ron",
                         "position": {
-                            "left": 288.0,
-                            "top": 268.0,
-                            "width": 26.0,
-                            "height": 11.0
+                            "left": 230.0,
+                            "top": 230.0,
+                            "width": 21.0,
+                            "height": 9.0
                         },
-                        "offset": 89
+                        "offset": 126
                     },
                     {
-                        "text": "SUPPORT",
+                        "text": "Frear",
                         "position": {
-                            "left": 324.0,
-                            "top": 269.0,
-                            "width": 62.0,
-                            "height": 10.0
-                        },
-                        "offset": 93
-                    },
-                    {
-                        "text": "HISTORY",
-                        "position": {
-                            "left": 397.0,
-                            "top": 269.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 101
-                    },
-                    {
-                        "text": "PURPOSE:",
-                        "position": {
-                            "left": 143.0,
-                            "top": 312.0,
-                            "width": 68.0,
-                            "height": 11.0
-                        },
-                        "offset": 109
-                    },
-                    {
-                        "text": "Response",
-                        "position": {
-                            "left": 143.0,
-                            "top": 343.0,
-                            "width": 70.0,
-                            "height": 13.0
-                        },
-                        "offset": 118
-                    },
-                    {
-                        "text": "to",
-                        "position": {
-                            "left": 225.0,
-                            "top": 344.0,
-                            "width": 16.0,
-                            "height": 10.0
-                        },
-                        "offset": 127
-                    },
-                    {
-                        "text": "your",
-                        "position": {
-                            "left": 252.0,
-                            "top": 346.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 260.0,
+                            "top": 230.0,
+                            "width": 37.0,
+                            "height": 9.0
                         },
                         "offset": 130
                     },
                     {
-                        "text": "request",
+                        "text": "DATE:",
                         "position": {
-                            "left": 297.0,
-                            "top": 344.0,
-                            "width": 61.0,
-                            "height": 13.0
+                            "left": 109.0,
+                            "top": 251.0,
+                            "width": 35.0,
+                            "height": 29.0
                         },
-                        "offset": 135
+                        "offset": 136
                     },
                     {
-                        "text": "for",
+                        "text": "September",
                         "position": {
-                            "left": 370.0,
-                            "top": 344.0,
-                            "width": 24.0,
-                            "height": 11.0
+                            "left": 200.0,
+                            "top": 260.0,
+                            "width": 67.0,
+                            "height": 12.0
                         },
-                        "offset": 143
+                        "offset": 142
                     },
                     {
-                        "text": "past",
+                        "text": "10,",
                         "position": {
-                            "left": 405.0,
-                            "top": 345.0,
-                            "width": 34.0,
-                            "height": 13.0
-                        },
-                        "offset": 147
-                    },
-                    {
-                        "text": "levels",
-                        "position": {
-                            "left": 451.0,
-                            "top": 345.0,
-                            "width": 52.0,
-                            "height": 11.0
+                            "left": 276.0,
+                            "top": 260.0,
+                            "width": 20.0,
+                            "height": 12.0
                         },
                         "offset": 152
                     },
                     {
-                        "text": "of",
+                        "text": "1985",
                         "position": {
-                            "left": 514.0,
-                            "top": 345.0,
-                            "width": 17.0,
-                            "height": 11.0
+                            "left": 307.0,
+                            "top": 260.0,
+                            "width": 28.0,
+                            "height": 10.0
                         },
-                        "offset": 159
+                        "offset": 156
                     },
                     {
-                        "text": "suppart",
+                        "text": "ce:",
                         "position": {
-                            "left": 541.0,
-                            "top": 346.0,
-                            "width": 61.0,
-                            "height": 13.0
+                            "left": 110.0,
+                            "top": 282.0,
+                            "width": 20.0,
+                            "height": 29.0
                         },
-                        "offset": 162
+                        "offset": 161
                     },
                     {
-                        "text": "-",
+                        "text": "Me.",
                         "position": {
-                            "left": 39.0,
-                            "top": 366.0,
-                            "width": 8.0,
-                            "height": 4.0
+                            "left": 200.0,
+                            "top": 292.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
-                        "offset": 170
+                        "offset": 165
                     },
                     {
-                        "text": "for",
+                        "text": "E.",
                         "position": {
-                            "left": 144.0,
-                            "top": 357.0,
-                            "width": 24.0,
-                            "height": 12.0
+                            "left": 231.0,
+                            "top": 292.0,
+                            "width": 12.0,
+                            "height": 9.0
+                        },
+                        "offset": 169
+                    },
+                    {
+                        "text": "E.",
+                        "position": {
+                            "left": 254.0,
+                            "top": 292.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
                         "offset": 172
                     },
                     {
-                        "text": "Battle",
+                        "text": "Kohnhorst,",
                         "position": {
-                            "left": 179.0,
-                            "top": 358.0,
-                            "width": 52.0,
+                            "left": 276.0,
+                            "top": 291.0,
+                            "width": 73.0,
+                            "height": 12.0
+                        },
+                        "offset": 175
+                    },
+                    {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 359.0,
+                            "top": 292.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 186
+                    },
+                    {
+                        "text": "L.",
+                        "position": {
+                            "left": 413.0,
+                            "top": 292.0,
+                            "width": 11.0,
+                            "height": 9.0
+                        },
+                        "offset": 190
+                    },
+                    {
+                        "text": "Reynolds,",
+                        "position": {
+                            "left": 435.0,
+                            "top": 292.0,
+                            "width": 65.0,
                             "height": 11.0
                         },
-                        "offset": 176
+                        "offset": 193
                     },
                     {
-                        "text": "Kit.",
+                        "text": "Or.",
                         "position": {
-                            "left": 242.0,
-                            "top": 359.0,
-                            "width": 33.0,
-                            "height": 11.0
+                            "left": 510.0,
+                            "top": 292.0,
+                            "width": 19.0,
+                            "height": 9.0
                         },
-                        "offset": 183
+                        "offset": 203
                     },
                     {
-                        "text": "DISCUSSION:",
+                        "text": "J.",
                         "position": {
-                            "left": 143.0,
-                            "top": 404.0,
-                            "width": 95.0,
-                            "height": 11.0
-                        },
-                        "offset": 188
-                    },
-                    {
-                        "text": "BATTLE",
-                        "position": {
-                            "left": 269.0,
-                            "top": 436.0,
-                            "width": 53.0,
-                            "height": 10.0
-                        },
-                        "offset": 200
-                    },
-                    {
-                        "text": "KIT",
-                        "position": {
-                            "left": 332.0,
-                            "top": 437.0,
-                            "width": 26.0,
-                            "height": 10.0
+                            "left": 540.0,
+                            "top": 292.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
                         "offset": 207
                     },
                     {
-                        "text": "BUDGET",
+                        "text": "N.",
                         "position": {
-                            "left": 367.0,
-                            "top": 436.0,
-                            "width": 54.0,
-                            "height": 11.0
+                            "left": 562.0,
+                            "top": 292.0,
+                            "width": 13.0,
+                            "height": 9.0
                         },
-                        "offset": 211
+                        "offset": 210
                     },
                     {
-                        "text": "HISTORY",
+                        "text": "Jewell,",
                         "position": {
-                            "left": 432.0,
-                            "top": 437.0,
-                            "width": 61.0,
+                            "left": 585.0,
+                            "top": 292.0,
+                            "width": 50.0,
                             "height": 11.0
                         },
-                        "offset": 218
+                        "offset": 213
                     },
                     {
-                        "text": "PROPOSED",
+                        "text": "Mr.",
                         "position": {
-                            "left": 540.0,
-                            "top": 468.0,
-                            "width": 71.0,
-                            "height": 11.0
+                            "left": 200.0,
+                            "top": 307.0,
+                            "width": 21.0,
+                            "height": 9.0
                         },
-                        "offset": 226
+                        "offset": 221
                     },
                     {
-                        "text": "1980",
+                        "text": "T.",
                         "position": {
-                            "left": 160.0,
-                            "top": 480.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 230.0,
+                            "top": 307.0,
+                            "width": 13.0,
+                            "height": 9.0
                         },
-                        "offset": 235
+                        "offset": 225
                     },
                     {
-                        "text": "1981",
+                        "text": "F.",
                         "position": {
-                            "left": 260.0,
-                            "top": 481.0,
-                            "width": 33.0,
-                            "height": 11.0
+                            "left": 254.0,
+                            "top": 307.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
-                        "offset": 240
+                        "offset": 228
                     },
                     {
-                        "text": "1982",
+                        "text": "Riehl,",
                         "position": {
-                            "left": 359.0,
-                            "top": 482.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 276.0,
+                            "top": 306.0,
+                            "width": 44.0,
+                            "height": 12.0
+                        },
+                        "offset": 231
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 329.0,
+                            "top": 307.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 238
+                    },
+                    {
+                        "text": "&.",
+                        "position": {
+                            "left": 360.0,
+                            "top": 307.0,
+                            "width": 12.0,
+                            "height": 9.0
+                        },
+                        "offset": 242
+                    },
+                    {
+                        "text": "F.",
+                        "position": {
+                            "left": 383.0,
+                            "top": 307.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
                         "offset": 245
                     },
                     {
-                        "text": "1983",
+                        "text": "Litzinger,",
                         "position": {
-                            "left": 459.0,
-                            "top": 482.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 406.0,
+                            "top": 307.0,
+                            "width": 72.0,
+                            "height": 12.0
                         },
-                        "offset": 250
+                        "offset": 248
                     },
                     {
-                        "text": "1984",
+                        "text": "Or.",
                         "position": {
-                            "left": 558.0,
-                            "top": 483.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 488.0,
+                            "top": 307.0,
+                            "width": 19.0,
+                            "height": 9.0
                         },
-                        "offset": 255
+                        "offset": 259
                     },
                     {
-                        "text": "1.754M",
+                        "text": "B.",
                         "position": {
-                            "left": 142.0,
-                            "top": 510.0,
-                            "width": 52.0,
-                            "height": 11.0
+                            "left": 518.0,
+                            "top": 307.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
-                        "offset": 260
+                        "offset": 263
                     },
                     {
-                        "text": "1,274MM",
+                        "text": "Chakraborty,",
                         "position": {
-                            "left": 350.0,
-                            "top": 512.0,
-                            "width": 61.0,
-                            "height": 11.0
+                            "left": 562.0,
+                            "top": 307.0,
+                            "width": 89.0,
+                            "height": 12.0
                         },
-                        "offset": 267
+                        "offset": 266
                     },
                     {
-                        "text": "BATTLE",
+                        "text": "Me.",
+                        "position": {
+                            "left": 201.0,
+                            "top": 322.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 279
+                    },
+                    {
+                        "text": "G.",
+                        "position": {
+                            "left": 254.0,
+                            "top": 322.0,
+                            "width": 12.0,
+                            "height": 9.0
+                        },
+                        "offset": 283
+                    },
+                    {
+                        "text": "Strubel,",
                         "position": {
                             "left": 277.0,
-                            "top": 557.0,
-                            "width": 52.0,
-                            "height": 10.0
-                        },
-                        "offset": 275
-                    },
-                    {
-                        "text": "KIT",
-                        "position": {
-                            "left": 340.0,
-                            "top": 557.0,
-                            "width": 25.0,
+                            "top": 322.0,
+                            "width": 58.0,
                             "height": 11.0
-                        },
-                        "offset": 282
-                    },
-                    {
-                        "text": "ITEM",
-                        "position": {
-                            "left": 377.0,
-                            "top": 558.0,
-                            "width": 34.0,
-                            "height": 10.0
                         },
                         "offset": 286
                     },
                     {
-                        "text": "HISTORY",
+                        "text": "Mr.",
                         "position": {
-                            "left": 422.0,
-                            "top": 558.0,
-                            "width": 61.0,
-                            "height": 11.0
+                            "left": 344.0,
+                            "top": 322.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
-                        "offset": 291
+                        "offset": 295
                     },
                     {
-                        "text": "1980",
+                        "text": "L.",
                         "position": {
-                            "left": 159.0,
-                            "top": 585.0,
-                            "width": 35.0,
-                            "height": 11.0
+                            "left": 376.0,
+                            "top": 322.0,
+                            "width": 11.0,
+                            "height": 9.0
                         },
                         "offset": 299
                     },
                     {
-                        "text": "1981",
+                        "text": "T.",
                         "position": {
-                            "left": 259.0,
-                            "top": 586.0,
-                            "width": 33.0,
-                            "height": 11.0
+                            "left": 397.0,
+                            "top": 322.0,
+                            "width": 13.0,
+                            "height": 9.0
                         },
-                        "offset": 304
+                        "offset": 302
                     },
                     {
-                        "text": "1982",
+                        "text": "Haag",
                         "position": {
-                            "left": 358.0,
-                            "top": 587.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 420.0,
+                            "top": 322.0,
+                            "width": 29.0,
+                            "height": 12.0
                         },
-                        "offset": 309
+                        "offset": 305
                     },
                     {
-                        "text": "1983",
+                        "text": "{",
                         "position": {
-                            "left": 458.0,
-                            "top": 588.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 112.0,
+                            "top": 367.0,
+                            "width": 5.0,
+                            "height": 9.0
                         },
-                        "offset": 314
+                        "offset": 310
                     },
                     {
-                        "text": "1984",
+                        "text": "talked",
                         "position": {
-                            "left": 558.0,
-                            "top": 589.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 127.0,
+                            "top": 367.0,
+                            "width": 43.0,
+                            "height": 9.0
+                        },
+                        "offset": 312
+                    },
+                    {
+                        "text": "with",
+                        "position": {
+                            "left": 178.0,
+                            "top": 367.0,
+                            "width": 31.0,
+                            "height": 9.0
                         },
                         "offset": 319
                     },
                     {
-                        "text": "2.2994M",
+                        "text": "R.",
                         "position": {
-                            "left": 150.0,
-                            "top": 615.0,
-                            "width": 61.0,
-                            "height": 11.0
+                            "left": 217.0,
+                            "top": 367.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
                         "offset": 324
                     },
                     {
-                        "text": "3.755MM",
+                        "text": "Frear",
                         "position": {
-                            "left": 249.0,
-                            "top": 616.0,
-                            "width": 62.0,
-                            "height": 11.0
+                            "left": 240.0,
+                            "top": 367.0,
+                            "width": 36.0,
+                            "height": 9.0
                         },
-                        "offset": 332
-                    },
-                    {
-                        "text": "2.992MM",
-                        "position": {
-                            "left": 349.0,
-                            "top": 617.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 340
-                    },
-                    {
-                        "text": "\u201cBased",
-                        "position": {
-                            "left": 158.0,
-                            "top": 646.0,
-                            "width": 53.0,
-                            "height": 10.0
-                        },
-                        "offset": 348
+                        "offset": 327
                     },
                     {
                         "text": "on",
                         "position": {
-                            "left": 222.0,
-                            "top": 648.0,
-                            "width": 16.0,
-                            "height": 8.0
+                            "left": 284.0,
+                            "top": 370.0,
+                            "width": 15.0,
+                            "height": 6.0
                         },
-                        "offset": 355
+                        "offset": 333
                     },
                     {
-                        "text": "budget",
+                        "text": "September",
                         "position": {
-                            "left": 330.0,
-                            "top": 647.0,
-                            "width": 52.0,
-                            "height": 13.0
+                            "left": 308.0,
+                            "top": 367.0,
+                            "width": 66.0,
+                            "height": 12.0
                         },
-                        "offset": 358
+                        "offset": 336
                     },
                     {
-                        "text": "and",
+                        "text": "4th",
                         "position": {
-                            "left": 394.0,
-                            "top": 648.0,
-                            "width": 25.0,
+                            "left": 383.0,
+                            "top": 367.0,
+                            "width": 22.0,
+                            "height": 9.0
+                        },
+                        "offset": 346
+                    },
+                    {
+                        "text": "concerning",
+                        "position": {
+                            "left": 413.0,
+                            "top": 367.0,
+                            "width": 74.0,
+                            "height": 12.0
+                        },
+                        "offset": 350
+                    },
+                    {
+                        "text": "reconstituted",
+                        "position": {
+                            "left": 496.0,
+                            "top": 367.0,
+                            "width": 96.0,
                             "height": 10.0
                         },
-                        "offset": 365
+                        "offset": 361
                     },
                     {
-                        "text": ".61",
+                        "text": "tobacco.",
                         "position": {
-                            "left": 432.0,
-                            "top": 648.0,
-                            "width": 23.0,
+                            "left": 112.0,
+                            "top": 382.0,
+                            "width": 57.0,
                             "height": 10.0
                         },
-                        "offset": 369
+                        "offset": 375
                     },
                     {
-                        "text": "average",
+                        "text": "R.",
                         "position": {
-                            "left": 466.0,
-                            "top": 651.0,
-                            "width": 62.0,
-                            "height": 11.0
+                            "left": 187.0,
+                            "top": 382.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
-                        "offset": 373
+                        "offset": 384
                     },
                     {
-                        "text": "cost",
+                        "text": "Frear",
                         "position": {
-                            "left": 539.0,
-                            "top": 649.0,
-                            "width": 33.0,
-                            "height": 11.0
+                            "left": 210.0,
+                            "top": 382.0,
+                            "width": 36.0,
+                            "height": 9.0
                         },
-                        "offset": 381
+                        "offset": 387
                     },
                     {
-                        "text": "per",
+                        "text": "has",
                         "position": {
-                            "left": 584.0,
-                            "top": 652.0,
-                            "width": 25.0,
+                            "left": 255.0,
+                            "top": 382.0,
+                            "width": 21.0,
                             "height": 10.0
                         },
-                        "offset": 386
+                        "offset": 393
                     },
                     {
-                        "text": ":",
+                        "text": "arranged",
                         "position": {
-                            "left": 77.0,
-                            "top": 664.0,
-                            "width": 2.0,
-                            "height": 2.0
-                        },
-                        "offset": 390
-                    },
-                    {
-                        "text": "item",
-                        "position": {
-                            "left": 167.0,
-                            "top": 660.0,
-                            "width": 35.0,
-                            "height": 11.0
-                        },
-                        "offset": 392
-                    },
-                    {
-                        "text": "in",
-                        "position": {
-                            "left": 213.0,
-                            "top": 660.0,
-                            "width": 16.0,
+                            "left": 285.0,
+                            "top": 383.0,
+                            "width": 59.0,
                             "height": 11.0
                         },
                         "offset": 397
                     },
                     {
-                        "text": "1983,",
+                        "text": "a",
                         "position": {
-                            "left": 240.0,
-                            "top": 660.0,
-                            "width": 41.0,
-                            "height": 12.0
-                        },
-                        "offset": 400
-                    },
-                    {
-                        "text": "Because",
-                        "position": {
-                            "left": 140.0,
-                            "top": 690.0,
-                            "width": 61.0,
-                            "height": 10.0
+                            "left": 353.0,
+                            "top": 385.0,
+                            "width": 7.0,
+                            "height": 6.0
                         },
                         "offset": 406
                     },
                     {
-                        "text": "there",
+                        "text": "mecting",
                         "position": {
-                            "left": 212.0,
-                            "top": 690.0,
-                            "width": 44.0,
+                            "left": 368.0,
+                            "top": 382.0,
+                            "width": 52.0,
+                            "height": 12.0
+                        },
+                        "offset": 408
+                    },
+                    {
+                        "text": "in",
+                        "position": {
+                            "left": 430.0,
+                            "top": 382.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 416
+                    },
+                    {
+                        "text": "Spotswood,",
+                        "position": {
+                            "left": 451.0,
+                            "top": 383.0,
+                            "width": 72.0,
                             "height": 11.0
                         },
-                        "offset": 414
+                        "offset": 419
                     },
                     {
-                        "text": "are",
+                        "text": "NJ",
                         "position": {
-                            "left": 267.0,
-                            "top": 693.0,
-                            "width": 25.0,
-                            "height": 8.0
+                            "left": 533.0,
+                            "top": 383.0,
+                            "width": 14.0,
+                            "height": 9.0
                         },
-                        "offset": 420
+                        "offset": 430
                     },
                     {
-                        "text": "so",
+                        "text": "on",
                         "position": {
-                            "left": 303.0,
-                            "top": 693.0,
-                            "width": 16.0,
-                            "height": 8.0
+                            "left": 556.0,
+                            "top": 385.0,
+                            "width": 14.0,
+                            "height": 6.0
                         },
-                        "offset": 424
+                        "offset": 433
                     },
                     {
-                        "text": "many",
+                        "text": "September",
                         "position": {
-                            "left": 330.0,
-                            "top": 693.0,
+                            "left": 112.0,
+                            "top": 398.0,
+                            "width": 66.0,
+                            "height": 11.0
+                        },
+                        "offset": 436
+                    },
+                    {
+                        "text": "26th.",
+                        "position": {
+                            "left": 188.0,
+                            "top": 397.0,
                             "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 427
-                    },
-                    {
-                        "text": "contradictory",
-                        "position": {
-                            "left": 375.0,
-                            "top": 692.0,
-                            "width": 115.0,
-                            "height": 14.0
-                        },
-                        "offset": 432
-                    },
-                    {
-                        "text": "recards",
-                        "position": {
-                            "left": 502.0,
-                            "top": 694.0,
-                            "width": 61.0,
                             "height": 10.0
                         },
                         "offset": 446
                     },
                     {
-                        "text": "on",
-                        "position": {
-                            "left": 574.0,
-                            "top": 696.0,
-                            "width": 17.0,
-                            "height": 8.0
-                        },
-                        "offset": 454
-                    },
-                    {
-                        "text": "past",
-                        "position": {
-                            "left": 139.0,
-                            "top": 705.0,
-                            "width": 35.0,
-                            "height": 12.0
-                        },
-                        "offset": 457
-                    },
-                    {
-                        "text": "Battle",
-                        "position": {
-                            "left": 185.0,
-                            "top": 705.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 462
-                    },
-                    {
-                        "text": "Kit",
-                        "position": {
-                            "left": 248.0,
-                            "top": 705.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 469
-                    },
-                    {
-                        "text": "items,",
-                        "position": {
-                            "left": 285.0,
-                            "top": 705.0,
-                            "width": 50.0,
-                            "height": 14.0
-                        },
-                        "offset": 473
-                    },
-                    {
-                        "text": "it",
-                        "position": {
-                            "left": 348.0,
-                            "top": 706.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 480
-                    },
-                    {
-                        "text": "is",
-                        "position": {
-                            "left": 375.0,
-                            "top": 706.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 483
-                    },
-                    {
-                        "text": "impossiple",
-                        "position": {
-                            "left": 402.0,
-                            "top": 707.0,
-                            "width": 88.0,
-                            "height": 13.0
-                        },
-                        "offset": 486
-                    },
-                    {
-                        "text": "to",
-                        "position": {
-                            "left": 502.0,
-                            "top": 708.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 497
-                    },
-                    {
-                        "text": "determine",
-                        "position": {
-                            "left": 529.0,
-                            "top": 708.0,
-                            "width": 79.0,
-                            "height": 12.0
-                        },
-                        "offset": 500
-                    },
-                    {
-                        "text": "the",
-                        "position": {
-                            "left": 140.0,
-                            "top": 720.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 510
-                    },
-                    {
-                        "text": "actual",
-                        "position": {
-                            "left": 176.0,
-                            "top": 720.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 514
-                    },
-                    {
-                        "text": "figures",
+                        "text": "Attending",
                         "position": {
                             "left": 240.0,
-                            "top": 720.0,
-                            "width": 61.0,
-                            "height": 13.0
+                            "top": 397.0,
+                            "width": 67.0,
+                            "height": 12.0
                         },
-                        "offset": 521
+                        "offset": 452
                     },
                     {
                         "text": "for",
                         "position": {
-                            "left": 313.0,
-                            "top": 721.0,
-                            "width": 24.0,
+                            "left": 316.0,
+                            "top": 397.0,
+                            "width": 21.0,
                             "height": 10.0
                         },
-                        "offset": 529
+                        "offset": 462
                     },
                     {
-                        "text": "1980",
+                        "text": "Kinberly-Clark",
                         "position": {
-                            "left": 348.0,
-                            "top": 721.0,
-                            "width": 34.0,
+                            "left": 345.0,
+                            "top": 397.0,
+                            "width": 105.0,
+                            "height": 12.0
+                        },
+                        "offset": 466
+                    },
+                    {
+                        "text": "witl",
+                        "position": {
+                            "left": 459.0,
+                            "top": 397.0,
+                            "width": 28.0,
+                            "height": 10.0
+                        },
+                        "offset": 481
+                    },
+                    {
+                        "text": "be",
+                        "position": {
+                            "left": 496.0,
+                            "top": 397.0,
+                            "width": 14.0,
+                            "height": 10.0
+                        },
+                        "offset": 486
+                    },
+                    {
+                        "text": "tte,",
+                        "position": {
+                            "left": 518.0,
+                            "top": 398.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 489
+                    },
+                    {
+                        "text": "Azeez,",
+                        "position": {
+                            "left": 549.0,
+                            "top": 398.0,
+                            "width": 43.0,
+                            "height": 10.0
+                        },
+                        "offset": 494
+                    },
+                    {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 112.0,
+                            "top": 413.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 501
+                    },
+                    {
+                        "text": "Frear,",
+                        "position": {
+                            "left": 143.0,
+                            "top": 413.0,
+                            "width": 42.0,
                             "height": 11.0
                         },
-                        "offset": 533
+                        "offset": 505
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 195.0,
+                            "top": 413.0,
+                            "width": 19.0,
+                            "height": 9.0
+                        },
+                        "offset": 512
+                    },
+                    {
+                        "text": "Cartwright,",
+                        "position": {
+                            "left": 225.0,
+                            "top": 412.0,
+                            "width": 81.0,
+                            "height": 12.0
+                        },
+                        "offset": 516
+                    },
+                    {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 315.0,
+                            "top": 413.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 528
+                    },
+                    {
+                        "text": "Natina,",
+                        "position": {
+                            "left": 346.0,
+                            "top": 412.0,
+                            "width": 50.0,
+                            "height": 12.0
+                        },
+                        "offset": 532
                     },
                     {
                         "text": "and",
                         "position": {
-                            "left": 393.0,
-                            "top": 722.0,
-                            "width": 25.0,
-                            "height": 10.0
+                            "left": 406.0,
+                            "top": 413.0,
+                            "width": 22.0,
+                            "height": 9.0
                         },
-                        "offset": 538
+                        "offset": 540
                     },
                     {
-                        "text": "1981.",
+                        "text": "Ur.",
                         "position": {
-                            "left": 430.0,
-                            "top": 722.0,
-                            "width": 41.0,
-                            "height": 11.0
+                            "left": 436.0,
+                            "top": 413.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
-                        "offset": 542
+                        "offset": 544
                     },
                     {
-                        "text": "The",
+                        "text": "Moskal.",
                         "position": {
-                            "left": 493.0,
-                            "top": 723.0,
-                            "width": 25.0,
-                            "height": 10.0
+                            "left": 466.0,
+                            "top": 413.0,
+                            "width": 50.0,
+                            "height": 9.0
                         },
                         "offset": 548
                     },
                     {
-                        "text": "budget",
+                        "text": "Currently",
                         "position": {
-                            "left": 529.0,
-                            "top": 723.0,
-                            "width": 52.0,
-                            "height": 14.0
+                            "left": 534.0,
+                            "top": 413.0,
+                            "width": 67.0,
+                            "height": 11.0
                         },
-                        "offset": 552
+                        "offset": 556
                     },
                     {
-                        "text": "figures",
+                        "text": "will",
                         "position": {
-                            "left": 140.0,
-                            "top": 735.0,
-                            "width": 60.0,
-                            "height": 13.0
+                            "left": 112.0,
+                            "top": 428.0,
+                            "width": 29.0,
+                            "height": 9.0
                         },
-                        "offset": 559
+                        "offset": 566
                     },
                     {
-                        "text": "represent",
+                        "text": "be",
                         "position": {
-                            "left": 212.0,
-                            "top": 736.0,
-                            "width": 79.0,
-                            "height": 12.0
-                        },
-                        "offset": 567
-                    },
-                    {
-                        "text": "the",
-                        "position": {
-                            "left": 303.0,
-                            "top": 736.0,
-                            "width": 24.0,
+                            "left": 150.0,
+                            "top": 428.0,
+                            "width": 13.0,
                             "height": 10.0
                         },
-                        "offset": 577
+                        "offset": 571
                     },
                     {
-                        "text": "amount",
+                        "text": "represented",
                         "position": {
-                            "left": 338.0,
-                            "top": 736.0,
-                            "width": 52.0,
+                            "left": 173.0,
+                            "top": 428.0,
+                            "width": 81.0,
+                            "height": 12.0
+                        },
+                        "offset": 574
+                    },
+                    {
+                        "text": "by",
+                        "position": {
+                            "left": 263.0,
+                            "top": 428.0,
+                            "width": 14.0,
+                            "height": 12.0
+                        },
+                        "offset": 586
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 285.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 589
+                    },
+                    {
+                        "text": "Chakraborty,",
+                        "position": {
+                            "left": 316.0,
+                            "top": 428.0,
+                            "width": 88.0,
+                            "height": 12.0
+                        },
+                        "offset": 593
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 414.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 606
+                    },
+                    {
+                        "text": "Litzingec,",
+                        "position": {
+                            "left": 445.0,
+                            "top": 428.0,
+                            "width": 72.0,
                             "height": 11.0
                         },
-                        "offset": 581
+                        "offset": 610
                     },
                     {
-                        "text": "spent",
+                        "text": "Mr.",
                         "position": {
-                            "left": 402.0,
-                            "top": 737.0,
-                            "width": 43.0,
-                            "height": 13.0
+                            "left": 526.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
-                        "offset": 588
+                        "offset": 621
                     },
                     {
-                        "text": "on",
+                        "text": "and",
                         "position": {
-                            "left": 456.0,
-                            "top": 740.0,
-                            "width": 16.0,
-                            "height": 8.0
-                        },
-                        "offset": 594
-                    },
-                    {
-                        "text": "@attle",
-                        "position": {
-                            "left": 483.0,
-                            "top": 738.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 597
-                    },
-                    {
-                        "text": "Kit",
-                        "position": {
-                            "left": 547.0,
-                            "top": 739.0,
-                            "width": 24.0,
-                            "height": 11.0
-                        },
-                        "offset": 604
-                    },
-                    {
-                        "text": "in",
-                        "position": {
-                            "left": 583.0,
-                            "top": 739.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 608
-                    },
-                    {
-                        "text": "a",
-                        "position": {
-                            "left": 610.0,
-                            "top": 742.0,
-                            "width": 7.0,
-                            "height": 8.0
-                        },
-                        "offset": 611
-                    },
-                    {
-                        "text": "given",
-                        "position": {
-                            "left": 139.0,
-                            "top": 749.0,
-                            "width": 44.0,
-                            "height": 14.0
-                        },
-                        "offset": 613
-                    },
-                    {
-                        "text": "year.",
-                        "position": {
-                            "left": 194.0,
-                            "top": 752.0,
-                            "width": 41.0,
-                            "height": 11.0
-                        },
-                        "offset": 619
-                    },
-                    {
-                        "text": "The",
-                        "position": {
-                            "left": 257.0,
-                            "top": 750.0,
-                            "width": 25.0,
-                            "height": 11.0
+                            "left": 625.0,
+                            "top": 428.0,
+                            "width": 21.0,
+                            "height": 9.0
                         },
                         "offset": 625
                     },
                     {
-                        "text": "item",
+                        "text": "aysetf.",
                         "position": {
-                            "left": 294.0,
-                            "top": 750.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 112.0,
+                            "top": 443.0,
+                            "width": 50.0,
+                            "height": 12.0
                         },
                         "offset": 629
                     },
                     {
-                        "text": "amounts",
+                        "text": "\u2018The",
                         "position": {
-                            "left": 338.0,
-                            "top": 752.0,
-                            "width": 61.0,
+                            "left": 180.0,
+                            "top": 443.0,
+                            "width": 21.0,
                             "height": 10.0
                         },
-                        "offset": 634
+                        "offset": 637
                     },
                     {
-                        "text": "represent",
+                        "text": "topics",
                         "position": {
-                            "left": 411.0,
-                            "top": 753.0,
-                            "width": 79.0,
+                            "left": 211.0,
+                            "top": 443.0,
+                            "width": 43.0,
                             "height": 12.0
                         },
                         "offset": 642
                     },
                     {
-                        "text": "what",
+                        "text": "for",
                         "position": {
-                            "left": 501.0,
-                            "top": 753.0,
-                            "width": 35.0,
-                            "height": 11.0
+                            "left": 264.0,
+                            "top": 443.0,
+                            "width": 20.0,
+                            "height": 10.0
                         },
-                        "offset": 652
+                        "offset": 649
                     },
                     {
-                        "text": "was",
+                        "text": "the",
                         "position": {
-                            "left": 547.0,
-                            "top": 756.0,
-                            "width": 25.0,
+                            "left": 294.0,
+                            "top": 444.0,
+                            "width": 21.0,
                             "height": 8.0
+                        },
+                        "offset": 653
+                    },
+                    {
+                        "text": "mecting",
+                        "position": {
+                            "left": 323.0,
+                            "top": 443.0,
+                            "width": 52.0,
+                            "height": 12.0
                         },
                         "offset": 657
                     },
                     {
-                        "text": "available",
+                        "text": "are:",
                         "position": {
-                            "left": 139.0,
-                            "top": 765.0,
-                            "width": 79.0,
-                            "height": 11.0
+                            "left": 384.0,
+                            "top": 446.0,
+                            "width": 27.0,
+                            "height": 6.0
                         },
-                        "offset": 661
+                        "offset": 665
                     },
                     {
-                        "text": "for",
+                        "text": "1,",
                         "position": {
-                            "left": 230.0,
-                            "top": 765.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 671
-                    },
-                    {
-                        "text": "use",
-                        "position": {
-                            "left": 266.0,
-                            "top": 768.0,
-                            "width": 25.0,
+                            "left": 144.0,
+                            "top": 474.0,
+                            "width": 11.0,
                             "height": 9.0
                         },
-                        "offset": 675
+                        "offset": 670
+                    },
+                    {
+                        "text": "Further",
+                        "position": {
+                            "left": 174.0,
+                            "top": 474.0,
+                            "width": 50.0,
+                            "height": 9.0
+                        },
+                        "offset": 673
+                    },
+                    {
+                        "text": "improvements",
+                        "position": {
+                            "left": 234.0,
+                            "top": 474.0,
+                            "width": 88.0,
+                            "height": 12.0
+                        },
+                        "offset": 681
                     },
                     {
                         "text": "in",
                         "position": {
-                            "left": 302.0,
-                            "top": 766.0,
-                            "width": 16.0,
-                            "height": 11.0
+                            "left": 333.0,
+                            "top": 474.0,
+                            "width": 13.0,
+                            "height": 9.0
                         },
-                        "offset": 679
+                        "offset": 694
                     },
                     {
-                        "text": "a",
+                        "text": "EER.",
                         "position": {
-                            "left": 329.0,
-                            "top": 769.0,
-                            "width": 7.0,
-                            "height": 8.0
+                            "left": 355.0,
+                            "top": 474.0,
+                            "width": 27.0,
+                            "height": 9.0
                         },
-                        "offset": 682
+                        "offset": 697
                     },
                     {
-                        "text": "given",
+                        "text": "2,",
                         "position": {
-                            "left": 347.0,
-                            "top": 767.0,
-                            "width": 43.0,
-                            "height": 13.0
+                            "left": 144.0,
+                            "top": 505.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
-                        "offset": 684
+                        "offset": 702
                     },
                     {
-                        "text": "yeat,",
+                        "text": "Quality",
                         "position": {
-                            "left": 401.0,
-                            "top": 770.0,
-                            "width": 42.0,
-                            "height": 11.0
+                            "left": 173.0,
+                            "top": 505.0,
+                            "width": 52.0,
+                            "height": 12.0
                         },
-                        "offset": 690
+                        "offset": 705
                     },
                     {
-                        "text": "some",
+                        "text": "control",
                         "position": {
-                            "left": 456.0,
-                            "top": 771.0,
-                            "width": 34.0,
-                            "height": 8.0
+                            "left": 234.0,
+                            "top": 504.0,
+                            "width": 50.0,
+                            "height": 10.0
                         },
-                        "offset": 696
+                        "offset": 713
                     },
                     {
                         "text": "of",
                         "position": {
-                            "left": 501.0,
-                            "top": 768.0,
-                            "width": 17.0,
-                            "height": 11.0
-                        },
-                        "offset": 701
-                    },
-                    {
-                        "text": "which",
-                        "position": {
-                            "left": 528.0,
-                            "top": 769.0,
-                            "width": 44.0,
-                            "height": 11.0
-                        },
-                        "offset": 704
-                    },
-                    {
-                        "text": "were",
-                        "position": {
-                            "left": 582.0,
-                            "top": 772.0,
-                            "width": 35.0,
-                            "height": 9.0
-                        },
-                        "offset": 710
-                    },
-                    {
-                        "text": "carried",
-                        "position": {
-                            "left": 139.0,
-                            "top": 780.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 715
-                    },
-                    {
-                        "text": "over",
-                        "position": {
-                            "left": 211.0,
-                            "top": 783.0,
-                            "width": 35.0,
-                            "height": 9.0
-                        },
-                        "offset": 723
-                    },
-                    {
-                        "text": "from",
-                        "position": {
-                            "left": 258.0,
-                            "top": 781.0,
-                            "width": 33.0,
-                            "height": 11.0
-                        },
-                        "offset": 728
-                    },
-                    {
-                        "text": "previous",
-                        "position": {
-                            "left": 302.0,
-                            "top": 781.0,
-                            "width": 70.0,
-                            "height": 13.0
-                        },
-                        "offset": 733
-                    },
-                    {
-                        "text": "years",
-                        "position": {
-                            "left": 383.0,
-                            "top": 785.0,
-                            "width": 44.0,
-                            "height": 11.0
-                        },
-                        "offset": 742
-                    },
-                    {
-                        "text": "and",
-                        "position": {
-                            "left": 438.0,
-                            "top": 783.0,
-                            "width": 25.0,
+                            "left": 294.0,
+                            "top": 504.0,
+                            "width": 14.0,
                             "height": 10.0
+                        },
+                        "offset": 721
+                    },
+                    {
+                        "text": "ceconstituted",
+                        "position": {
+                            "left": 318.0,
+                            "top": 504.0,
+                            "width": 96.0,
+                            "height": 10.0
+                        },
+                        "offset": 724
+                    },
+                    {
+                        "text": "tobaccos.",
+                        "position": {
+                            "left": 424.0,
+                            "top": 504.0,
+                            "width": 63.0,
+                            "height": 10.0
+                        },
+                        "offset": 738
+                    },
+                    {
+                        "text": "Ne.",
+                        "position": {
+                            "left": 114.0,
+                            "top": 536.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
                         "offset": 748
                     },
                     {
-                        "text": "SMP",
+                        "text": "R.",
                         "position": {
-                            "left": 474.0,
-                            "top": 783.0,
-                            "width": 25.0,
-                            "height": 11.0
+                            "left": 144.0,
+                            "top": 536.0,
+                            "width": 12.0,
+                            "height": 9.0
                         },
                         "offset": 752
                     },
                     {
-                        "text": "pragrams.",
+                        "text": "Frear",
                         "position": {
-                            "left": 510.0,
-                            "top": 786.0,
-                            "width": 77.0,
-                            "height": 11.0
+                            "left": 167.0,
+                            "top": 536.0,
+                            "width": 36.0,
+                            "height": 9.0
                         },
-                        "offset": 756
+                        "offset": 755
                     },
                     {
-                        "text": "a",
+                        "text": "told",
                         "position": {
-                            "left": 706.0,
-                            "top": 787.0,
-                            "width": 16.0,
-                            "height": 13.0
+                            "left": 213.0,
+                            "top": 535.0,
+                            "width": 27.0,
+                            "height": 10.0
                         },
-                        "offset": 766
-                    },
-                    {
-                        "text": "x",
-                        "position": {
-                            "left": 706.0,
-                            "top": 801.0,
-                            "width": 16.0,
-                            "height": 13.0
-                        },
-                        "offset": 768
-                    },
-                    {
-                        "text": "Let",
-                        "position": {
-                            "left": 139.0,
-                            "top": 810.0,
-                            "width": 24.0,
-                            "height": 11.0
-                        },
-                        "offset": 770
+                        "offset": 761
                     },
                     {
                         "text": "me",
                         "position": {
-                            "left": 174.0,
-                            "top": 813.0,
-                            "width": 16.0,
-                            "height": 8.0
+                            "left": 249.0,
+                            "top": 538.0,
+                            "width": 14.0,
+                            "height": 7.0
+                        },
+                        "offset": 766
+                    },
+                    {
+                        "text": "that",
+                        "position": {
+                            "left": 273.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 769
+                    },
+                    {
+                        "text": "the",
+                        "position": {
+                            "left": 311.0,
+                            "top": 535.0,
+                            "width": 20.0,
+                            "height": 10.0
                         },
                         "offset": 774
                     },
                     {
-                        "text": "know",
+                        "text": "Kimberly-Clark",
                         "position": {
-                            "left": 202.0,
-                            "top": 811.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 777
-                    },
-                    {
-                        "text": "if",
-                        "position": {
-                            "left": 247.0,
-                            "top": 811.0,
-                            "width": 17.0,
-                            "height": 11.0
-                        },
-                        "offset": 782
-                    },
-                    {
-                        "text": "you",
-                        "position": {
-                            "left": 274.0,
-                            "top": 814.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 785
-                    },
-                    {
-                        "text": "need",
-                        "position": {
-                            "left": 310.0,
-                            "top": 812.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 789
-                    },
-                    {
-                        "text": "additional",
-                        "position": {
-                            "left": 355.0,
-                            "top": 812.0,
-                            "width": 89.0,
-                            "height": 12.0
-                        },
-                        "offset": 794
-                    },
-                    {
-                        "text": "information.",
-                        "position": {
-                            "left": 456.0,
-                            "top": 813.0,
+                            "left": 340.0,
+                            "top": 535.0,
                             "width": 104.0,
                             "height": 12.0
                         },
-                        "offset": 805
+                        "offset": 778
                     },
                     {
-                        "text": "rey",
+                        "text": "plant",
                         "position": {
-                            "left": 705.0,
-                            "top": 842.0,
-                            "width": 16.0,
+                            "left": 454.0,
+                            "top": 535.0,
+                            "width": 35.0,
                             "height": 12.0
+                        },
+                        "offset": 793
+                    },
+                    {
+                        "text": "will",
+                        "position": {
+                            "left": 498.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 799
+                    },
+                    {
+                        "text": "have",
+                        "position": {
+                            "left": 536.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 804
+                    },
+                    {
+                        "text": "a",
+                        "position": {
+                            "left": 573.0,
+                            "top": 538.0,
+                            "width": 7.0,
+                            "height": 6.0
+                        },
+                        "offset": 809
+                    },
+                    {
+                        "text": "report",
+                        "position": {
+                            "left": 589.0,
+                            "top": 536.0,
+                            "width": 43.0,
+                            "height": 11.0
+                        },
+                        "offset": 811
+                    },
+                    {
+                        "text": "available",
+                        "position": {
+                            "left": 114.0,
+                            "top": 551.0,
+                            "width": 66.0,
+                            "height": 9.0
                         },
                         "offset": 818
                     },
                     {
-                        "text": "g",
+                        "text": "for",
                         "position": {
-                            "left": 704.0,
-                            "top": 869.0,
-                            "width": 17.0,
-                            "height": 41.0
+                            "left": 190.0,
+                            "top": 550.0,
+                            "width": 21.0,
+                            "height": 10.0
                         },
-                        "offset": 822
+                        "offset": 828
+                    },
+                    {
+                        "text": "us",
+                        "position": {
+                            "left": 219.0,
+                            "top": 554.0,
+                            "width": 14.0,
+                            "height": 6.0
+                        },
+                        "offset": 832
+                    },
+                    {
+                        "text": "at",
+                        "position": {
+                            "left": 242.0,
+                            "top": 552.0,
+                            "width": 14.0,
+                            "height": 8.0
+                        },
+                        "offset": 835
+                    },
+                    {
+                        "text": "the",
+                        "position": {
+                            "left": 266.0,
+                            "top": 551.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 838
+                    },
+                    {
+                        "text": "meeting",
+                        "position": {
+                            "left": 294.0,
+                            "top": 550.0,
+                            "width": 53.0,
+                            "height": 12.0
+                        },
+                        "offset": 842
+                    },
+                    {
+                        "text": "oa",
+                        "position": {
+                            "left": 355.0,
+                            "top": 553.0,
+                            "width": 15.0,
+                            "height": 7.0
+                        },
+                        "offset": 850
+                    },
+                    {
+                        "text": "improving",
+                        "position": {
+                            "left": 379.0,
+                            "top": 550.0,
+                            "width": 66.0,
+                            "height": 13.0
+                        },
+                        "offset": 853
+                    },
+                    {
+                        "text": "EBR",
+                        "position": {
+                            "left": 454.0,
+                            "top": 550.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 863
+                    },
+                    {
+                        "text": "uniformity",
+                        "position": {
+                            "left": 484.0,
+                            "top": 550.0,
+                            "width": 73.0,
+                            "height": 12.0
+                        },
+                        "offset": 867
+                    },
+                    {
+                        "text": "by",
+                        "position": {
+                            "left": 566.0,
+                            "top": 550.0,
+                            "width": 14.0,
+                            "height": 12.0
+                        },
+                        "offset": 878
+                    },
+                    {
+                        "text": "changing",
+                        "position": {
+                            "left": 115.0,
+                            "top": 566.0,
+                            "width": 58.0,
+                            "height": 12.0
+                        },
+                        "offset": 881
+                    },
+                    {
+                        "text": "or",
+                        "position": {
+                            "left": 182.0,
+                            "top": 569.0,
+                            "width": 14.0,
+                            "height": 7.0
+                        },
+                        "offset": 890
+                    },
+                    {
+                        "text": "better",
+                        "position": {
+                            "left": 204.0,
+                            "top": 566.0,
+                            "width": 44.0,
+                            "height": 10.0
+                        },
+                        "offset": 893
+                    },
+                    {
+                        "text": "controlling",
+                        "position": {
+                            "left": 257.0,
+                            "top": 566.0,
+                            "width": 82.0,
+                            "height": 12.0
+                        },
+                        "offset": 900
+                    },
+                    {
+                        "text": "process",
+                        "position": {
+                            "left": 349.0,
+                            "top": 568.0,
+                            "width": 50.0,
+                            "height": 10.0
+                        },
+                        "offset": 912
+                    },
+                    {
+                        "text": "paraneters.",
+                        "position": {
+                            "left": 409.0,
+                            "top": 567.0,
+                            "width": 79.0,
+                            "height": 11.0
+                        },
+                        "offset": 920
+                    },
+                    {
+                        "text": "{",
+                        "position": {
+                            "left": 116.0,
+                            "top": 597.0,
+                            "width": 5.0,
+                            "height": 9.0
+                        },
+                        "offset": 932
+                    },
+                    {
+                        "text": "reminded",
+                        "position": {
+                            "left": 131.0,
+                            "top": 597.0,
+                            "width": 58.0,
+                            "height": 10.0
+                        },
+                        "offset": 934
+                    },
+                    {
+                        "text": "Mr,",
+                        "position": {
+                            "left": 197.0,
+                            "top": 597.0,
+                            "width": 20.0,
+                            "height": 10.0
+                        },
+                        "offset": 943
+                    },
+                    {
+                        "text": "Frear",
+                        "position": {
+                            "left": 228.0,
+                            "top": 597.0,
+                            "width": 36.0,
+                            "height": 9.0
+                        },
+                        "offset": 947
+                    },
+                    {
+                        "text": "that",
+                        "position": {
+                            "left": 274.0,
+                            "top": 597.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 953
+                    },
+                    {
+                        "text": "we",
+                        "position": {
+                            "left": 310.0,
+                            "top": 600.0,
+                            "width": 15.0,
+                            "height": 6.0
+                        },
+                        "offset": 958
+                    },
+                    {
+                        "text": "had",
+                        "position": {
+                            "left": 334.0,
+                            "top": 597.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 961
+                    },
+                    {
+                        "text": "not",
+                        "position": {
+                            "left": 364.0,
+                            "top": 598.0,
+                            "width": 21.0,
+                            "height": 8.0
+                        },
+                        "offset": 965
+                    },
+                    {
+                        "text": "as",
+                        "position": {
+                            "left": 394.0,
+                            "top": 599.0,
+                            "width": 13.0,
+                            "height": 7.0
+                        },
+                        "offset": 969
+                    },
+                    {
+                        "text": "yet",
+                        "position": {
+                            "left": 416.0,
+                            "top": 598.0,
+                            "width": 22.0,
+                            "height": 11.0
+                        },
+                        "offset": 972
+                    },
+                    {
+                        "text": "received",
+                        "position": {
+                            "left": 448.0,
+                            "top": 596.0,
+                            "width": 57.0,
+                            "height": 10.0
+                        },
+                        "offset": 976
+                    },
+                    {
+                        "text": "the",
+                        "position": {
+                            "left": 515.0,
+                            "top": 597.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 985
+                    },
+                    {
+                        "text": "minutes",
+                        "position": {
+                            "left": 544.0,
+                            "top": 598.0,
+                            "width": 51.0,
+                            "height": 8.0
+                        },
+                        "offset": 989
+                    },
+                    {
+                        "text": "From",
+                        "position": {
+                            "left": 606.0,
+                            "top": 597.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 997
+                    },
+                    {
+                        "text": "our",
+                        "position": {
+                            "left": 115.0,
+                            "top": 615.0,
+                            "width": 22.0,
+                            "height": 7.0
+                        },
+                        "offset": 1002
+                    },
+                    {
+                        "text": "first",
+                        "position": {
+                            "left": 146.0,
+                            "top": 612.0,
+                            "width": 35.0,
+                            "height": 10.0
+                        },
+                        "offset": 1006
+                    },
+                    {
+                        "text": "research",
+                        "position": {
+                            "left": 191.0,
+                            "top": 613.0,
+                            "width": 59.0,
+                            "height": 10.0
+                        },
+                        "offset": 1012
+                    },
+                    {
+                        "text": "program",
+                        "position": {
+                            "left": 258.0,
+                            "top": 615.0,
+                            "width": 53.0,
+                            "height": 10.0
+                        },
+                        "offset": 1021
+                    },
+                    {
+                        "text": "on",
+                        "position": {
+                            "left": 318.0,
+                            "top": 615.0,
+                            "width": 15.0,
+                            "height": 7.0
+                        },
+                        "offset": 1029
+                    },
+                    {
+                        "text": "reconstituted",
+                        "position": {
+                            "left": 342.0,
+                            "top": 612.0,
+                            "width": 96.0,
+                            "height": 10.0
+                        },
+                        "offset": 1032
+                    },
+                    {
+                        "text": "tobacco.",
+                        "position": {
+                            "left": 448.0,
+                            "top": 612.0,
+                            "width": 56.0,
+                            "height": 10.0
+                        },
+                        "offset": 1046
+                    },
+                    {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 521.0,
+                            "top": 612.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 1055
+                    },
+                    {
+                        "text": "Frear",
+                        "position": {
+                            "left": 552.0,
+                            "top": 612.0,
+                            "width": 36.0,
+                            "height": 10.0
+                        },
+                        "offset": 1059
+                    },
+                    {
+                        "text": "stated",
+                        "position": {
+                            "left": 598.0,
+                            "top": 613.0,
+                            "width": 43.0,
+                            "height": 9.0
+                        },
+                        "offset": 1065
+                    },
+                    {
+                        "text": "he",
+                        "position": {
+                            "left": 116.0,
+                            "top": 628.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 1072
+                    },
+                    {
+                        "text": "had",
+                        "position": {
+                            "left": 138.0,
+                            "top": 628.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 1075
+                    },
+                    {
+                        "text": "seen",
+                        "position": {
+                            "left": 168.0,
+                            "top": 631.0,
+                            "width": 29.0,
+                            "height": 7.0
+                        },
+                        "offset": 1079
+                    },
+                    {
+                        "text": "a",
+                        "position": {
+                            "left": 205.0,
+                            "top": 631.0,
+                            "width": 7.0,
+                            "height": 7.0
+                        },
+                        "offset": 1084
+                    },
+                    {
+                        "text": "draft",
+                        "position": {
+                            "left": 221.0,
+                            "top": 628.0,
+                            "width": 35.0,
+                            "height": 10.0
+                        },
+                        "offset": 1086
+                    },
+                    {
+                        "text": "and",
+                        "position": {
+                            "left": 265.0,
+                            "top": 628.0,
+                            "width": 22.0,
+                            "height": 9.0
+                        },
+                        "offset": 1092
+                    },
+                    {
+                        "text": "he",
+                        "position": {
+                            "left": 296.0,
+                            "top": 628.0,
+                            "width": 14.0,
+                            "height": 9.0
+                        },
+                        "offset": 1096
+                    },
+                    {
+                        "text": "believed",
+                        "position": {
+                            "left": 319.0,
+                            "top": 627.0,
+                            "width": 59.0,
+                            "height": 10.0
+                        },
+                        "offset": 1099
+                    },
+                    {
+                        "text": "that",
+                        "position": {
+                            "left": 388.0,
+                            "top": 628.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 1108
+                    },
+                    {
+                        "text": "the",
+                        "position": {
+                            "left": 425.0,
+                            "top": 628.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 1113
+                    },
+                    {
+                        "text": "draft",
+                        "position": {
+                            "left": 455.0,
+                            "top": 627.0,
+                            "width": 36.0,
+                            "height": 10.0
+                        },
+                        "offset": 1117
+                    },
+                    {
+                        "text": "was",
+                        "position": {
+                            "left": 499.0,
+                            "top": 630.0,
+                            "width": 21.0,
+                            "height": 7.0
+                        },
+                        "offset": 1123
+                    },
+                    {
+                        "text": "being",
+                        "position": {
+                            "left": 529.0,
+                            "top": 628.0,
+                            "width": 37.0,
+                            "height": 11.0
+                        },
+                        "offset": 1127
+                    },
+                    {
+                        "text": "reviewed",
+                        "position": {
+                            "left": 576.0,
+                            "top": 628.0,
+                            "width": 58.0,
+                            "height": 9.0
+                        },
+                        "offset": 1133
+                    },
+                    {
+                        "text": "by",
+                        "position": {
+                            "left": 115.0,
+                            "top": 643.0,
+                            "width": 15.0,
+                            "height": 12.0
+                        },
+                        "offset": 1142
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 139.0,
+                            "top": 644.0,
+                            "width": 19.0,
+                            "height": 9.0
+                        },
+                        "offset": 1145
+                    },
+                    {
+                        "text": "Todd.",
+                        "position": {
+                            "left": 190.0,
+                            "top": 644.0,
+                            "width": 36.0,
+                            "height": 9.0
+                        },
+                        "offset": 1149
+                    },
+                    {
+                        "text": "We",
+                        "position": {
+                            "left": 243.0,
+                            "top": 643.0,
+                            "width": 14.0,
+                            "height": 9.0
+                        },
+                        "offset": 1155
+                    },
+                    {
+                        "text": "can",
+                        "position": {
+                            "left": 266.0,
+                            "top": 646.0,
+                            "width": 22.0,
+                            "height": 7.0
+                        },
+                        "offset": 1158
+                    },
+                    {
+                        "text": "expect",
+                        "position": {
+                            "left": 296.0,
+                            "top": 644.0,
+                            "width": 44.0,
+                            "height": 11.0
+                        },
+                        "offset": 1162
+                    },
+                    {
+                        "text": "the",
+                        "position": {
+                            "left": 350.0,
+                            "top": 643.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 1169
+                    },
+                    {
+                        "text": "draft",
+                        "position": {
+                            "left": 379.0,
+                            "top": 642.0,
+                            "width": 37.0,
+                            "height": 10.0
+                        },
+                        "offset": 1173
+                    },
+                    {
+                        "text": "minutes",
+                        "position": {
+                            "left": 424.0,
+                            "top": 642.0,
+                            "width": 52.0,
+                            "height": 10.0
+                        },
+                        "offset": 1179
+                    },
+                    {
+                        "text": "shortly.",
+                        "position": {
+                            "left": 485.0,
+                            "top": 643.0,
+                            "width": 57.0,
+                            "height": 12.0
+                        },
+                        "offset": 1187
+                    },
+                    {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 117.0,
+                            "top": 720.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 1196
+                    },
+                    {
+                        "text": "J.",
+                        "position": {
+                            "left": 147.0,
+                            "top": 720.0,
+                            "width": 12.0,
+                            "height": 9.0
+                        },
+                        "offset": 1200
+                    },
+                    {
+                        "text": "G.",
+                        "position": {
+                            "left": 169.0,
+                            "top": 720.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 1203
+                    },
+                    {
+                        "text": "09375",
+                        "position": {
+                            "left": 117.0,
+                            "top": 782.0,
+                            "width": 36.0,
+                            "height": 12.0
+                        },
+                        "offset": 1206
+                    },
+                    {
+                        "text": "R",
+                        "position": {
+                            "left": 707.0,
+                            "top": 785.0,
+                            "width": 16.0,
+                            "height": 26.0
+                        },
+                        "offset": 1212
+                    },
+                    {
+                        "text": "a",
+                        "position": {
+                            "left": 707.0,
+                            "top": 877.0,
+                            "width": 16.0,
+                            "height": 14.0
+                        },
+                        "offset": 1214
+                    },
+                    {
+                        "text": ".",
+                        "position": {
+                            "left": 641.0,
+                            "top": 908.0,
+                            "width": 2.0,
+                            "height": 2.0
+                        },
+                        "offset": 1216
                     }
                 ],
                 "source": {
-                    "width": 774,
+                    "width": 769,
                     "height": 1000
                 }
             }
         ]
     },
+    "task_2": {},
+    "task_3": {
+        "source": {
+            "width": null,
+            "height": null,
+            "type": "other"
+        }
+    },
     "task_4": [
         {
             "facts": [
                 {
-                    "text": "MEMORANDUM",
+                    "text": "BROWN & WILLLAMSON TOBACCO CORPORATION RESEARCH",
                     "tag": "ORGANIZATION",
                     "tokens": [
                         {
-                            "text": "MEMORANDUM",
+                            "text": "BROWN",
                             "position": {
-                                "left": 145.0,
-                                "top": 86.0,
-                                "width": 88.0,
-                                "height": 11.0
-                            },
-                            "offset": 0
-                        }
-                    ]
-                },
-                {
-                    "text": "July 29, 1983",
-                    "tag": "DATE",
-                    "tokens": [
-                        {
-                            "text": "July",
-                            "position": {
-                                "left": 145.0,
-                                "top": 116.0,
-                                "width": 33.0,
-                                "height": 14.0
-                            },
-                            "offset": 11
-                        },
-                        {
-                            "text": "29,",
-                            "position": {
-                                "left": 190.0,
-                                "top": 117.0,
-                                "width": 23.0,
-                                "height": 13.0
-                            },
-                            "offset": 16
-                        },
-                        {
-                            "text": "1983",
-                            "position": {
-                                "left": 226.0,
-                                "top": 117.0,
-                                "width": 35.0,
-                                "height": 11.0
-                            },
-                            "offset": 20
-                        }
-                    ]
-                },
-                {
-                    "text": "To:",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "To:",
-                        "position": {
-                            "left": 145.0,
-                            "top": 177.0,
-                            "width": 22.0,
-                            "height": 11.0
-                        },
-                        "offset": 25
-                    }
-                },
-                {
-                    "text": "R. D",
-                    "tag": "PERSON",
-                    "tokens": [
-                        {
-                            "text": "R.",
-                            "position": {
-                                "left": 226.0,
-                                "top": 178.0,
-                                "width": 14.0,
-                                "height": 11.0
-                            },
-                            "offset": 29
-                        },
-                        {
-                            "text": "D,",
-                            "position": {
-                                "left": 253.0,
-                                "top": 178.0,
-                                "width": 14.0,
-                                "height": 11.0
-                            },
-                            "offset": 32
-                        }
-                    ]
-                },
-                {
-                    "text": "Sharp",
-                    "tag": "PERSON",
-                    "tokens": [
-                        {
-                            "text": "Sharp",
-                            "position": {
-                                "left": 280.0,
-                                "top": 178.0,
-                                "width": 43.0,
-                                "height": 13.0
-                            },
-                            "offset": 35
-                        }
-                    ]
-                },
-                {
-                    "text": "cc:",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "cc:",
-                        "position": {
-                            "left": 144.0,
-                            "top": 207.0,
-                            "width": 23.0,
-                            "height": 11.0
-                        },
-                        "offset": 41
-                    }
-                },
-                {
-                    "text": "M. J. Novak",
-                    "tag": "PERSON",
-                    "tokens": [
-                        {
-                            "text": "M.",
-                            "position": {
-                                "left": 225.0,
-                                "top": 208.0,
-                                "width": 15.0,
+                                "left": 236.0,
+                                "top": 88.0,
+                                "width": 36.0,
                                 "height": 10.0
                             },
-                            "offset": 45
+                            "offset": 0
                         },
                         {
-                            "text": "J.",
+                            "text": "&",
                             "position": {
-                                "left": 253.0,
-                                "top": 208.0,
-                                "width": 14.0,
-                                "height": 11.0
+                                "left": 281.0,
+                                "top": 88.0,
+                                "width": 6.0,
+                                "height": 9.0
                             },
-                            "offset": 48
+                            "offset": 6
                         },
                         {
-                            "text": "Novak",
+                            "text": "WILLLAMSON",
                             "position": {
-                                "left": 280.0,
-                                "top": 208.0,
-                                "width": 43.0,
+                                "left": 296.0,
+                                "top": 88.0,
+                                "width": 75.0,
+                                "height": 10.0
+                            },
+                            "offset": 8
+                        },
+                        {
+                            "text": "TOBACCO",
+                            "position": {
+                                "left": 379.0,
+                                "top": 88.0,
+                                "width": 52.0,
+                                "height": 10.0
+                            },
+                            "offset": 19
+                        },
+                        {
+                            "text": "CORPORATION",
+                            "position": {
+                                "left": 440.0,
+                                "top": 88.0,
+                                "width": 81.0,
+                                "height": 10.0
+                            },
+                            "offset": 27
+                        },
+                        {
+                            "text": "RESEARCH,",
+                            "position": {
+                                "left": 248.0,
+                                "top": 120.0,
+                                "width": 66.0,
                                 "height": 11.0
                             },
-                            "offset": 51
+                            "offset": 39
                         }
                     ]
                 },
                 {
-                    "text": "FROM:",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "FROM:",
-                        "position": {
-                            "left": 144.0,
-                            "top": 237.0,
-                            "width": 41.0,
-                            "height": 11.0
-                        },
-                        "offset": 57
-                    }
-                },
-                {
-                    "text": "Gustafson SUBJECT",
+                    "text": "DEVELOPMENT & ENGINEERING TELEPHONE",
                     "tag": "ORGANIZATION",
                     "tokens": [
                         {
-                            "text": "Gustafson",
+                            "text": "DEVELOPMENT",
                             "position": {
-                                "left": 280.0,
-                                "top": 238.0,
-                                "width": 79.0,
-                                "height": 11.0
+                                "left": 324.0,
+                                "top": 120.0,
+                                "width": 82.0,
+                                "height": 10.0
+                            },
+                            "offset": 49
+                        },
+                        {
+                            "text": "&",
+                            "position": {
+                                "left": 414.0,
+                                "top": 120.0,
+                                "width": 7.0,
+                                "height": 9.0
+                            },
+                            "offset": 61
+                        },
+                        {
+                            "text": "ENGINEERING",
+                            "position": {
+                                "left": 430.0,
+                                "top": 120.0,
+                                "width": 81.0,
+                                "height": 10.0
                             },
                             "offset": 63
                         },
                         {
-                            "text": "SUBJECT:",
+                            "text": "TELEPHONE",
                             "position": {
-                                "left": 143.0,
-                                "top": 267.0,
-                                "width": 69.0,
-                                "height": 11.0
+                                "left": 297.0,
+                                "top": 152.0,
+                                "width": 67.0,
+                                "height": 9.0
                             },
-                            "offset": 73
+                            "offset": 75
                         }
                     ]
                 },
                 {
-                    "text": "BATTLE",
+                    "text": "CONVERSATION",
                     "tag": "O",
                     "tokens": {
-                        "text": "BATTLE",
+                        "text": "CONVERSATION",
                         "position": {
-                            "left": 225.0,
-                            "top": 268.0,
-                            "width": 52.0,
+                            "left": 372.0,
+                            "top": 152.0,
+                            "width": 90.0,
+                            "height": 9.0
+                        },
+                        "offset": 85
+                    }
+                },
+                {
+                    "text": "KIMBERLY-CLARK/275",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "KIMBERLY-CLARK/275",
+                        "position": {
+                            "left": 199.0,
+                            "top": 197.0,
+                            "width": 135.0,
+                            "height": 11.0
+                        },
+                        "offset": 98
+                    }
+                },
+                {
+                    "text": "CONTACT:",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "CONTACT:",
+                        "position": {
+                            "left": 109.0,
+                            "top": 230.0,
+                            "width": 58.0,
                             "height": 10.0
                         },
-                        "offset": 82
+                        "offset": 117
                     }
                 },
                 {
-                    "text": "KIT",
+                    "text": "Ron",
                     "tag": "O",
                     "tokens": {
-                        "text": "KIT",
+                        "text": "Ron",
                         "position": {
-                            "left": 288.0,
-                            "top": 268.0,
-                            "width": 26.0,
-                            "height": 11.0
+                            "left": 230.0,
+                            "top": 230.0,
+                            "width": 21.0,
+                            "height": 9.0
                         },
-                        "offset": 89
+                        "offset": 126
                     }
                 },
                 {
-                    "text": "SUPPORT",
+                    "text": "Frear",
                     "tag": "O",
                     "tokens": {
-                        "text": "SUPPORT",
+                        "text": "Frear",
                         "position": {
-                            "left": 324.0,
-                            "top": 269.0,
-                            "width": 62.0,
-                            "height": 10.0
-                        },
-                        "offset": 93
-                    }
-                },
-                {
-                    "text": "HISTORY",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "HISTORY",
-                        "position": {
-                            "left": 397.0,
-                            "top": 269.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 101
-                    }
-                },
-                {
-                    "text": "PURPOSE:",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "PURPOSE:",
-                        "position": {
-                            "left": 143.0,
-                            "top": 312.0,
-                            "width": 68.0,
-                            "height": 11.0
-                        },
-                        "offset": 109
-                    }
-                },
-                {
-                    "text": "Response",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "Response",
-                        "position": {
-                            "left": 143.0,
-                            "top": 343.0,
-                            "width": 70.0,
-                            "height": 13.0
-                        },
-                        "offset": 118
-                    }
-                },
-                {
-                    "text": "to",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "to",
-                        "position": {
-                            "left": 225.0,
-                            "top": 344.0,
-                            "width": 16.0,
-                            "height": 10.0
-                        },
-                        "offset": 127
-                    }
-                },
-                {
-                    "text": "your",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "your",
-                        "position": {
-                            "left": 252.0,
-                            "top": 346.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 260.0,
+                            "top": 230.0,
+                            "width": 37.0,
+                            "height": 9.0
                         },
                         "offset": 130
                     }
                 },
                 {
-                    "text": "request",
+                    "text": "DATE:",
                     "tag": "O",
                     "tokens": {
-                        "text": "request",
+                        "text": "DATE:",
                         "position": {
-                            "left": 297.0,
-                            "top": 344.0,
-                            "width": 61.0,
-                            "height": 13.0
+                            "left": 109.0,
+                            "top": 251.0,
+                            "width": 35.0,
+                            "height": 29.0
                         },
-                        "offset": 135
+                        "offset": 136
                     }
                 },
                 {
-                    "text": "for",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "for",
-                        "position": {
-                            "left": 370.0,
-                            "top": 344.0,
-                            "width": 24.0,
-                            "height": 11.0
-                        },
-                        "offset": 143
-                    }
-                },
-                {
-                    "text": "past",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "past",
-                        "position": {
-                            "left": 405.0,
-                            "top": 345.0,
-                            "width": 34.0,
-                            "height": 13.0
-                        },
-                        "offset": 147
-                    }
-                },
-                {
-                    "text": "levels",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "levels",
-                        "position": {
-                            "left": 451.0,
-                            "top": 345.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 152
-                    }
-                },
-                {
-                    "text": "of",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "of",
-                        "position": {
-                            "left": 514.0,
-                            "top": 345.0,
-                            "width": 17.0,
-                            "height": 11.0
-                        },
-                        "offset": 159
-                    }
-                },
-                {
-                    "text": "suppart",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "suppart",
-                        "position": {
-                            "left": 541.0,
-                            "top": 346.0,
-                            "width": 61.0,
-                            "height": 13.0
-                        },
-                        "offset": 162
-                    }
-                },
-                {
-                    "text": "-",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "-",
-                        "position": {
-                            "left": 39.0,
-                            "top": 366.0,
-                            "width": 8.0,
-                            "height": 4.0
-                        },
-                        "offset": 170
-                    }
-                },
-                {
-                    "text": "for",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "for",
-                        "position": {
-                            "left": 144.0,
-                            "top": 357.0,
-                            "width": 24.0,
-                            "height": 12.0
-                        },
-                        "offset": 172
-                    }
-                },
-                {
-                    "text": "Battle",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "Battle",
-                        "position": {
-                            "left": 179.0,
-                            "top": 358.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 176
-                    }
-                },
-                {
-                    "text": "Kit.",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "Kit.",
-                        "position": {
-                            "left": 242.0,
-                            "top": 359.0,
-                            "width": 33.0,
-                            "height": 11.0
-                        },
-                        "offset": 183
-                    }
-                },
-                {
-                    "text": "DISCUSSION:",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "DISCUSSION:",
-                        "position": {
-                            "left": 143.0,
-                            "top": 404.0,
-                            "width": 95.0,
-                            "height": 11.0
-                        },
-                        "offset": 188
-                    }
-                },
-                {
-                    "text": "BATTLE",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "BATTLE",
-                        "position": {
-                            "left": 269.0,
-                            "top": 436.0,
-                            "width": 53.0,
-                            "height": 10.0
-                        },
-                        "offset": 200
-                    }
-                },
-                {
-                    "text": "KIT",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "KIT",
-                        "position": {
-                            "left": 332.0,
-                            "top": 437.0,
-                            "width": 26.0,
-                            "height": 10.0
-                        },
-                        "offset": 207
-                    }
-                },
-                {
-                    "text": "BUDGET",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "BUDGET",
-                        "position": {
-                            "left": 367.0,
-                            "top": 436.0,
-                            "width": 54.0,
-                            "height": 11.0
-                        },
-                        "offset": 211
-                    }
-                },
-                {
-                    "text": "HISTORY",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "HISTORY",
-                        "position": {
-                            "left": 432.0,
-                            "top": 437.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 218
-                    }
-                },
-                {
-                    "text": "PROPOSED",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "PROPOSED",
-                        "position": {
-                            "left": 540.0,
-                            "top": 468.0,
-                            "width": 71.0,
-                            "height": 11.0
-                        },
-                        "offset": 226
-                    }
-                },
-                {
-                    "text": "1980 1981",
+                    "text": "September 10, 1985",
                     "tag": "DATE",
                     "tokens": [
                         {
-                            "text": "1980",
+                            "text": "September",
                             "position": {
-                                "left": 160.0,
-                                "top": 480.0,
-                                "width": 34.0,
-                                "height": 11.0
+                                "left": 200.0,
+                                "top": 260.0,
+                                "width": 67.0,
+                                "height": 12.0
                             },
-                            "offset": 235
+                            "offset": 142
                         },
                         {
-                            "text": "1981",
+                            "text": "10,",
                             "position": {
-                                "left": 260.0,
-                                "top": 481.0,
-                                "width": 33.0,
-                                "height": 11.0
+                                "left": 276.0,
+                                "top": 260.0,
+                                "width": 20.0,
+                                "height": 12.0
                             },
-                            "offset": 240
+                            "offset": 152
+                        },
+                        {
+                            "text": "1985",
+                            "position": {
+                                "left": 307.0,
+                                "top": 260.0,
+                                "width": 28.0,
+                                "height": 10.0
+                            },
+                            "offset": 156
                         }
                     ]
                 },
                 {
-                    "text": "1982",
+                    "text": "ce:",
                     "tag": "O",
                     "tokens": {
-                        "text": "1982",
+                        "text": "ce:",
+                        "position": {
+                            "left": 110.0,
+                            "top": 282.0,
+                            "width": 20.0,
+                            "height": 29.0
+                        },
+                        "offset": 161
+                    }
+                },
+                {
+                    "text": "Me.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Me.",
+                        "position": {
+                            "left": 200.0,
+                            "top": 292.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 165
+                    }
+                },
+                {
+                    "text": "E. E. Kohnhorst",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "E.",
+                            "position": {
+                                "left": 231.0,
+                                "top": 292.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 169
+                        },
+                        {
+                            "text": "E.",
+                            "position": {
+                                "left": 254.0,
+                                "top": 292.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 172
+                        },
+                        {
+                            "text": "Kohnhorst,",
+                            "position": {
+                                "left": 276.0,
+                                "top": 291.0,
+                                "width": 73.0,
+                                "height": 12.0
+                            },
+                            "offset": 175
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
                         "position": {
                             "left": 359.0,
-                            "top": 482.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "top": 292.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
-                        "offset": 245
+                        "offset": 186
                     }
                 },
                 {
-                    "text": "1983",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "1983",
-                        "position": {
-                            "left": 459.0,
-                            "top": 482.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 250
-                    }
-                },
-                {
-                    "text": "1984",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "1984",
-                        "position": {
-                            "left": 558.0,
-                            "top": 483.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 255
-                    }
-                },
-                {
-                    "text": "1.754M 1,274MM",
-                    "tag": "O",
+                    "text": "L. Reynolds",
+                    "tag": "PERSON",
                     "tokens": [
                         {
-                            "text": "1.754M",
+                            "text": "L.",
                             "position": {
-                                "left": 142.0,
-                                "top": 510.0,
-                                "width": 52.0,
-                                "height": 11.0
+                                "left": 413.0,
+                                "top": 292.0,
+                                "width": 11.0,
+                                "height": 9.0
                             },
-                            "offset": 260
+                            "offset": 190
                         },
                         {
-                            "text": "1,274MM",
+                            "text": "Reynolds,",
                             "position": {
-                                "left": 350.0,
-                                "top": 512.0,
-                                "width": 61.0,
+                                "left": 435.0,
+                                "top": 292.0,
+                                "width": 65.0,
                                 "height": 11.0
                             },
-                            "offset": 267
+                            "offset": 193
                         }
                     ]
                 },
                 {
-                    "text": "BATTLE",
+                    "text": "Or.",
                     "tag": "O",
                     "tokens": {
-                        "text": "BATTLE",
+                        "text": "Or.",
                         "position": {
-                            "left": 277.0,
-                            "top": 557.0,
-                            "width": 52.0,
-                            "height": 10.0
+                            "left": 510.0,
+                            "top": 292.0,
+                            "width": 19.0,
+                            "height": 9.0
                         },
-                        "offset": 275
+                        "offset": 203
                     }
                 },
                 {
-                    "text": "KIT",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "KIT",
-                        "position": {
-                            "left": 340.0,
-                            "top": 557.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 282
-                    }
-                },
-                {
-                    "text": "ITEM",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "ITEM",
-                        "position": {
-                            "left": 377.0,
-                            "top": 558.0,
-                            "width": 34.0,
-                            "height": 10.0
-                        },
-                        "offset": 286
-                    }
-                },
-                {
-                    "text": "HISTORY",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "HISTORY",
-                        "position": {
-                            "left": 422.0,
-                            "top": 558.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 291
-                    }
-                },
-                {
-                    "text": "1980",
-                    "tag": "DATE",
+                    "text": "J. N. Jewell",
+                    "tag": "PERSON",
                     "tokens": [
                         {
-                            "text": "1980",
+                            "text": "J.",
                             "position": {
-                                "left": 159.0,
-                                "top": 585.0,
-                                "width": 35.0,
+                                "left": 540.0,
+                                "top": 292.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 207
+                        },
+                        {
+                            "text": "N.",
+                            "position": {
+                                "left": 562.0,
+                                "top": 292.0,
+                                "width": 13.0,
+                                "height": 9.0
+                            },
+                            "offset": 210
+                        },
+                        {
+                            "text": "Jewell,",
+                            "position": {
+                                "left": 585.0,
+                                "top": 292.0,
+                                "width": 50.0,
                                 "height": 11.0
+                            },
+                            "offset": 213
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 200.0,
+                            "top": 307.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 221
+                    }
+                },
+                {
+                    "text": "T. F. Riehl",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "T.",
+                            "position": {
+                                "left": 230.0,
+                                "top": 307.0,
+                                "width": 13.0,
+                                "height": 9.0
+                            },
+                            "offset": 225
+                        },
+                        {
+                            "text": "F.",
+                            "position": {
+                                "left": 254.0,
+                                "top": 307.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 228
+                        },
+                        {
+                            "text": "Riehl,",
+                            "position": {
+                                "left": 276.0,
+                                "top": 306.0,
+                                "width": 44.0,
+                                "height": 12.0
+                            },
+                            "offset": 231
+                        }
+                    ]
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 329.0,
+                            "top": 307.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 238
+                    }
+                },
+                {
+                    "text": "&.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "&.",
+                        "position": {
+                            "left": 360.0,
+                            "top": 307.0,
+                            "width": 12.0,
+                            "height": 9.0
+                        },
+                        "offset": 242
+                    }
+                },
+                {
+                    "text": "F. Litzinger",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "F.",
+                            "position": {
+                                "left": 383.0,
+                                "top": 307.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 245
+                        },
+                        {
+                            "text": "Litzinger,",
+                            "position": {
+                                "left": 406.0,
+                                "top": 307.0,
+                                "width": 72.0,
+                                "height": 12.0
+                            },
+                            "offset": 248
+                        }
+                    ]
+                },
+                {
+                    "text": "Or.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Or.",
+                        "position": {
+                            "left": 488.0,
+                            "top": 307.0,
+                            "width": 19.0,
+                            "height": 9.0
+                        },
+                        "offset": 259
+                    }
+                },
+                {
+                    "text": "B. Chakraborty",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "B.",
+                            "position": {
+                                "left": 518.0,
+                                "top": 307.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 263
+                        },
+                        {
+                            "text": "Chakraborty,",
+                            "position": {
+                                "left": 562.0,
+                                "top": 307.0,
+                                "width": 89.0,
+                                "height": 12.0
+                            },
+                            "offset": 266
+                        }
+                    ]
+                },
+                {
+                    "text": "Me.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Me.",
+                        "position": {
+                            "left": 201.0,
+                            "top": 322.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 279
+                    }
+                },
+                {
+                    "text": "G. Strubel",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "G.",
+                            "position": {
+                                "left": 254.0,
+                                "top": 322.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 283
+                        },
+                        {
+                            "text": "Strubel,",
+                            "position": {
+                                "left": 277.0,
+                                "top": 322.0,
+                                "width": 58.0,
+                                "height": 11.0
+                            },
+                            "offset": 286
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 344.0,
+                            "top": 322.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 295
+                    }
+                },
+                {
+                    "text": "L. T. Haag",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "L.",
+                            "position": {
+                                "left": 376.0,
+                                "top": 322.0,
+                                "width": 11.0,
+                                "height": 9.0
                             },
                             "offset": 299
+                        },
+                        {
+                            "text": "T.",
+                            "position": {
+                                "left": 397.0,
+                                "top": 322.0,
+                                "width": 13.0,
+                                "height": 9.0
+                            },
+                            "offset": 302
+                        },
+                        {
+                            "text": "Haag",
+                            "position": {
+                                "left": 420.0,
+                                "top": 322.0,
+                                "width": 29.0,
+                                "height": 12.0
+                            },
+                            "offset": 305
                         }
                     ]
                 },
                 {
-                    "text": "1981",
+                    "text": "{",
                     "tag": "O",
                     "tokens": {
-                        "text": "1981",
+                        "text": "{",
                         "position": {
-                            "left": 259.0,
-                            "top": 586.0,
-                            "width": 33.0,
-                            "height": 11.0
+                            "left": 112.0,
+                            "top": 367.0,
+                            "width": 5.0,
+                            "height": 9.0
                         },
-                        "offset": 304
+                        "offset": 310
                     }
                 },
                 {
-                    "text": "1982",
+                    "text": "talked",
                     "tag": "O",
                     "tokens": {
-                        "text": "1982",
+                        "text": "talked",
                         "position": {
-                            "left": 358.0,
-                            "top": 587.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 127.0,
+                            "top": 367.0,
+                            "width": 43.0,
+                            "height": 9.0
                         },
-                        "offset": 309
+                        "offset": 312
                     }
                 },
                 {
-                    "text": "1983",
+                    "text": "with",
                     "tag": "O",
                     "tokens": {
-                        "text": "1983",
+                        "text": "with",
                         "position": {
-                            "left": 458.0,
-                            "top": 588.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 314
-                    }
-                },
-                {
-                    "text": "1984",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "1984",
-                        "position": {
-                            "left": 558.0,
-                            "top": 589.0,
-                            "width": 34.0,
-                            "height": 11.0
+                            "left": 178.0,
+                            "top": 367.0,
+                            "width": 31.0,
+                            "height": 9.0
                         },
                         "offset": 319
                     }
                 },
                 {
-                    "text": "2.2994",
+                    "text": "R.",
                     "tag": "O",
                     "tokens": [
                         {
-                            "text": "2.2994M",
+                            "text": "R.",
                             "position": {
-                                "left": 150.0,
-                                "top": 615.0,
-                                "width": 61.0,
-                                "height": 11.0
+                                "left": 217.0,
+                                "top": 367.0,
+                                "width": 12.0,
+                                "height": 9.0
                             },
                             "offset": 324
                         }
                     ]
                 },
                 {
-                    "text": "3.755MM",
+                    "text": "Frear",
                     "tag": "O",
                     "tokens": {
-                        "text": "3.755MM",
+                        "text": "Frear",
                         "position": {
-                            "left": 249.0,
-                            "top": 616.0,
-                            "width": 62.0,
-                            "height": 11.0
+                            "left": 240.0,
+                            "top": 367.0,
+                            "width": 36.0,
+                            "height": 9.0
                         },
-                        "offset": 332
-                    }
-                },
-                {
-                    "text": "2.992MM",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "2.992MM",
-                        "position": {
-                            "left": 349.0,
-                            "top": 617.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 340
-                    }
-                },
-                {
-                    "text": "\u201cBased",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "\u201cBased",
-                        "position": {
-                            "left": 158.0,
-                            "top": 646.0,
-                            "width": 53.0,
-                            "height": 10.0
-                        },
-                        "offset": 348
+                        "offset": 327
                     }
                 },
                 {
@@ -2316,822 +2772,134 @@ WSGI не делал, debug=True оставил. Без нормального �
                     "tokens": {
                         "text": "on",
                         "position": {
-                            "left": 222.0,
-                            "top": 648.0,
-                            "width": 16.0,
-                            "height": 8.0
+                            "left": 284.0,
+                            "top": 370.0,
+                            "width": 15.0,
+                            "height": 6.0
                         },
-                        "offset": 355
+                        "offset": 333
                     }
                 },
                 {
-                    "text": "budget",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "budget",
-                        "position": {
-                            "left": 330.0,
-                            "top": 647.0,
-                            "width": 52.0,
-                            "height": 13.0
-                        },
-                        "offset": 358
-                    }
-                },
-                {
-                    "text": "and",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "and",
-                        "position": {
-                            "left": 394.0,
-                            "top": 648.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 365
-                    }
-                },
-                {
-                    "text": ".61",
-                    "tag": "O",
-                    "tokens": {
-                        "text": ".61",
-                        "position": {
-                            "left": 432.0,
-                            "top": 648.0,
-                            "width": 23.0,
-                            "height": 10.0
-                        },
-                        "offset": 369
-                    }
-                },
-                {
-                    "text": "average",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "average",
-                        "position": {
-                            "left": 466.0,
-                            "top": 651.0,
-                            "width": 62.0,
-                            "height": 11.0
-                        },
-                        "offset": 373
-                    }
-                },
-                {
-                    "text": "cost",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "cost",
-                        "position": {
-                            "left": 539.0,
-                            "top": 649.0,
-                            "width": 33.0,
-                            "height": 11.0
-                        },
-                        "offset": 381
-                    }
-                },
-                {
-                    "text": "per",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "per",
-                        "position": {
-                            "left": 584.0,
-                            "top": 652.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 386
-                    }
-                },
-                {
-                    "text": ":",
-                    "tag": "O",
-                    "tokens": {
-                        "text": ":",
-                        "position": {
-                            "left": 77.0,
-                            "top": 664.0,
-                            "width": 2.0,
-                            "height": 2.0
-                        },
-                        "offset": 390
-                    }
-                },
-                {
-                    "text": "item",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "item",
-                        "position": {
-                            "left": 167.0,
-                            "top": 660.0,
-                            "width": 35.0,
-                            "height": 11.0
-                        },
-                        "offset": 392
-                    }
-                },
-                {
-                    "text": "in",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "in",
-                        "position": {
-                            "left": 213.0,
-                            "top": 660.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 397
-                    }
-                },
-                {
-                    "text": "1983",
+                    "text": "September 4th",
                     "tag": "DATE",
                     "tokens": [
                         {
-                            "text": "1983,",
+                            "text": "September",
                             "position": {
-                                "left": 240.0,
-                                "top": 660.0,
-                                "width": 41.0,
+                                "left": 308.0,
+                                "top": 367.0,
+                                "width": 66.0,
                                 "height": 12.0
                             },
-                            "offset": 400
+                            "offset": 336
+                        },
+                        {
+                            "text": "4th",
+                            "position": {
+                                "left": 383.0,
+                                "top": 367.0,
+                                "width": 22.0,
+                                "height": 9.0
+                            },
+                            "offset": 346
                         }
                     ]
                 },
                 {
-                    "text": "Because",
+                    "text": "concerning",
                     "tag": "O",
                     "tokens": {
-                        "text": "Because",
+                        "text": "concerning",
                         "position": {
-                            "left": 140.0,
-                            "top": 690.0,
-                            "width": 61.0,
-                            "height": 10.0
-                        },
-                        "offset": 406
-                    }
-                },
-                {
-                    "text": "there",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "there",
-                        "position": {
-                            "left": 212.0,
-                            "top": 690.0,
-                            "width": 44.0,
-                            "height": 11.0
-                        },
-                        "offset": 414
-                    }
-                },
-                {
-                    "text": "are",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "are",
-                        "position": {
-                            "left": 267.0,
-                            "top": 693.0,
-                            "width": 25.0,
-                            "height": 8.0
-                        },
-                        "offset": 420
-                    }
-                },
-                {
-                    "text": "so",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "so",
-                        "position": {
-                            "left": 303.0,
-                            "top": 693.0,
-                            "width": 16.0,
-                            "height": 8.0
-                        },
-                        "offset": 424
-                    }
-                },
-                {
-                    "text": "many",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "many",
-                        "position": {
-                            "left": 330.0,
-                            "top": 693.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 427
-                    }
-                },
-                {
-                    "text": "contradictory",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "contradictory",
-                        "position": {
-                            "left": 375.0,
-                            "top": 692.0,
-                            "width": 115.0,
-                            "height": 14.0
-                        },
-                        "offset": 432
-                    }
-                },
-                {
-                    "text": "recards",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "recards",
-                        "position": {
-                            "left": 502.0,
-                            "top": 694.0,
-                            "width": 61.0,
-                            "height": 10.0
-                        },
-                        "offset": 446
-                    }
-                },
-                {
-                    "text": "on",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "on",
-                        "position": {
-                            "left": 574.0,
-                            "top": 696.0,
-                            "width": 17.0,
-                            "height": 8.0
-                        },
-                        "offset": 454
-                    }
-                },
-                {
-                    "text": "past",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "past",
-                        "position": {
-                            "left": 139.0,
-                            "top": 705.0,
-                            "width": 35.0,
+                            "left": 413.0,
+                            "top": 367.0,
+                            "width": 74.0,
                             "height": 12.0
                         },
-                        "offset": 457
+                        "offset": 350
                     }
                 },
                 {
-                    "text": "Battle Kit",
+                    "text": "reconstituted",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "reconstituted",
+                        "position": {
+                            "left": 496.0,
+                            "top": 367.0,
+                            "width": 96.0,
+                            "height": 10.0
+                        },
+                        "offset": 361
+                    }
+                },
+                {
+                    "text": "tobacco.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "tobacco.",
+                        "position": {
+                            "left": 112.0,
+                            "top": 382.0,
+                            "width": 57.0,
+                            "height": 10.0
+                        },
+                        "offset": 375
+                    }
+                },
+                {
+                    "text": "R. Frear",
                     "tag": "PERSON",
                     "tokens": [
                         {
-                            "text": "Battle",
+                            "text": "R.",
                             "position": {
-                                "left": 185.0,
-                                "top": 705.0,
-                                "width": 52.0,
-                                "height": 11.0
+                                "left": 187.0,
+                                "top": 382.0,
+                                "width": 12.0,
+                                "height": 9.0
                             },
-                            "offset": 462
+                            "offset": 384
                         },
                         {
-                            "text": "Kit",
+                            "text": "Frear",
                             "position": {
-                                "left": 248.0,
-                                "top": 705.0,
-                                "width": 25.0,
-                                "height": 11.0
+                                "left": 210.0,
+                                "top": 382.0,
+                                "width": 36.0,
+                                "height": 9.0
                             },
-                            "offset": 469
+                            "offset": 387
                         }
                     ]
                 },
                 {
-                    "text": "items,",
+                    "text": "has",
                     "tag": "O",
                     "tokens": {
-                        "text": "items,",
+                        "text": "has",
+                        "position": {
+                            "left": 255.0,
+                            "top": 382.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 393
+                    }
+                },
+                {
+                    "text": "arranged",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "arranged",
                         "position": {
                             "left": 285.0,
-                            "top": 705.0,
-                            "width": 50.0,
-                            "height": 14.0
-                        },
-                        "offset": 473
-                    }
-                },
-                {
-                    "text": "it",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "it",
-                        "position": {
-                            "left": 348.0,
-                            "top": 706.0,
-                            "width": 16.0,
+                            "top": 383.0,
+                            "width": 59.0,
                             "height": 11.0
                         },
-                        "offset": 480
-                    }
-                },
-                {
-                    "text": "is",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "is",
-                        "position": {
-                            "left": 375.0,
-                            "top": 706.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 483
-                    }
-                },
-                {
-                    "text": "impossiple",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "impossiple",
-                        "position": {
-                            "left": 402.0,
-                            "top": 707.0,
-                            "width": 88.0,
-                            "height": 13.0
-                        },
-                        "offset": 486
-                    }
-                },
-                {
-                    "text": "to",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "to",
-                        "position": {
-                            "left": 502.0,
-                            "top": 708.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 497
-                    }
-                },
-                {
-                    "text": "determine",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "determine",
-                        "position": {
-                            "left": 529.0,
-                            "top": 708.0,
-                            "width": 79.0,
-                            "height": 12.0
-                        },
-                        "offset": 500
-                    }
-                },
-                {
-                    "text": "the",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "the",
-                        "position": {
-                            "left": 140.0,
-                            "top": 720.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 510
-                    }
-                },
-                {
-                    "text": "actual",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "actual",
-                        "position": {
-                            "left": 176.0,
-                            "top": 720.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 514
-                    }
-                },
-                {
-                    "text": "figures",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "figures",
-                        "position": {
-                            "left": 240.0,
-                            "top": 720.0,
-                            "width": 61.0,
-                            "height": 13.0
-                        },
-                        "offset": 521
-                    }
-                },
-                {
-                    "text": "for",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "for",
-                        "position": {
-                            "left": 313.0,
-                            "top": 721.0,
-                            "width": 24.0,
-                            "height": 10.0
-                        },
-                        "offset": 529
-                    }
-                },
-                {
-                    "text": "1980",
-                    "tag": "DATE",
-                    "tokens": [
-                        {
-                            "text": "1980",
-                            "position": {
-                                "left": 348.0,
-                                "top": 721.0,
-                                "width": 34.0,
-                                "height": 11.0
-                            },
-                            "offset": 533
-                        }
-                    ]
-                },
-                {
-                    "text": "and",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "and",
-                        "position": {
-                            "left": 393.0,
-                            "top": 722.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 538
-                    }
-                },
-                {
-                    "text": "1981",
-                    "tag": "DATE",
-                    "tokens": [
-                        {
-                            "text": "1981.",
-                            "position": {
-                                "left": 430.0,
-                                "top": 722.0,
-                                "width": 41.0,
-                                "height": 11.0
-                            },
-                            "offset": 542
-                        }
-                    ]
-                },
-                {
-                    "text": "The",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "The",
-                        "position": {
-                            "left": 493.0,
-                            "top": 723.0,
-                            "width": 25.0,
-                            "height": 10.0
-                        },
-                        "offset": 548
-                    }
-                },
-                {
-                    "text": "budget",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "budget",
-                        "position": {
-                            "left": 529.0,
-                            "top": 723.0,
-                            "width": 52.0,
-                            "height": 14.0
-                        },
-                        "offset": 552
-                    }
-                },
-                {
-                    "text": "figures",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "figures",
-                        "position": {
-                            "left": 140.0,
-                            "top": 735.0,
-                            "width": 60.0,
-                            "height": 13.0
-                        },
-                        "offset": 559
-                    }
-                },
-                {
-                    "text": "represent",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "represent",
-                        "position": {
-                            "left": 212.0,
-                            "top": 736.0,
-                            "width": 79.0,
-                            "height": 12.0
-                        },
-                        "offset": 567
-                    }
-                },
-                {
-                    "text": "the",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "the",
-                        "position": {
-                            "left": 303.0,
-                            "top": 736.0,
-                            "width": 24.0,
-                            "height": 10.0
-                        },
-                        "offset": 577
-                    }
-                },
-                {
-                    "text": "amount",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "amount",
-                        "position": {
-                            "left": 338.0,
-                            "top": 736.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 581
-                    }
-                },
-                {
-                    "text": "spent",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "spent",
-                        "position": {
-                            "left": 402.0,
-                            "top": 737.0,
-                            "width": 43.0,
-                            "height": 13.0
-                        },
-                        "offset": 588
-                    }
-                },
-                {
-                    "text": "on",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "on",
-                        "position": {
-                            "left": 456.0,
-                            "top": 740.0,
-                            "width": 16.0,
-                            "height": 8.0
-                        },
-                        "offset": 594
-                    }
-                },
-                {
-                    "text": "@attle",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "@attle",
-                        "position": {
-                            "left": 483.0,
-                            "top": 738.0,
-                            "width": 52.0,
-                            "height": 11.0
-                        },
-                        "offset": 597
-                    }
-                },
-                {
-                    "text": "Kit",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "Kit",
-                        "position": {
-                            "left": 547.0,
-                            "top": 739.0,
-                            "width": 24.0,
-                            "height": 11.0
-                        },
-                        "offset": 604
-                    }
-                },
-                {
-                    "text": "in",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "in",
-                        "position": {
-                            "left": 583.0,
-                            "top": 739.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 608
-                    }
-                },
-                {
-                    "text": "a given year",
-                    "tag": "DATE",
-                    "tokens": [
-                        {
-                            "text": "a",
-                            "position": {
-                                "left": 610.0,
-                                "top": 742.0,
-                                "width": 7.0,
-                                "height": 8.0
-                            },
-                            "offset": 611
-                        },
-                        {
-                            "text": "given",
-                            "position": {
-                                "left": 139.0,
-                                "top": 749.0,
-                                "width": 44.0,
-                                "height": 14.0
-                            },
-                            "offset": 613
-                        },
-                        {
-                            "text": "year.",
-                            "position": {
-                                "left": 194.0,
-                                "top": 752.0,
-                                "width": 41.0,
-                                "height": 11.0
-                            },
-                            "offset": 619
-                        }
-                    ]
-                },
-                {
-                    "text": "The",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "The",
-                        "position": {
-                            "left": 257.0,
-                            "top": 750.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 625
-                    }
-                },
-                {
-                    "text": "item",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "item",
-                        "position": {
-                            "left": 294.0,
-                            "top": 750.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 629
-                    }
-                },
-                {
-                    "text": "amounts",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "amounts",
-                        "position": {
-                            "left": 338.0,
-                            "top": 752.0,
-                            "width": 61.0,
-                            "height": 10.0
-                        },
-                        "offset": 634
-                    }
-                },
-                {
-                    "text": "represent",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "represent",
-                        "position": {
-                            "left": 411.0,
-                            "top": 753.0,
-                            "width": 79.0,
-                            "height": 12.0
-                        },
-                        "offset": 642
-                    }
-                },
-                {
-                    "text": "what",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "what",
-                        "position": {
-                            "left": 501.0,
-                            "top": 753.0,
-                            "width": 35.0,
-                            "height": 11.0
-                        },
-                        "offset": 652
-                    }
-                },
-                {
-                    "text": "was",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "was",
-                        "position": {
-                            "left": 547.0,
-                            "top": 756.0,
-                            "width": 25.0,
-                            "height": 8.0
-                        },
-                        "offset": 657
-                    }
-                },
-                {
-                    "text": "available",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "available",
-                        "position": {
-                            "left": 139.0,
-                            "top": 765.0,
-                            "width": 79.0,
-                            "height": 11.0
-                        },
-                        "offset": 661
-                    }
-                },
-                {
-                    "text": "for",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "for",
-                        "position": {
-                            "left": 230.0,
-                            "top": 765.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 671
-                    }
-                },
-                {
-                    "text": "use",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "use",
-                        "position": {
-                            "left": 266.0,
-                            "top": 768.0,
-                            "width": 25.0,
-                            "height": 9.0
-                        },
-                        "offset": 675
-                    }
-                },
-                {
-                    "text": "in",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "in",
-                        "position": {
-                            "left": 302.0,
-                            "top": 766.0,
-                            "width": 16.0,
-                            "height": 11.0
-                        },
-                        "offset": 679
+                        "offset": 397
                     }
                 },
                 {
@@ -3140,54 +2908,714 @@ WSGI не делал, debug=True оставил. Без нормального �
                     "tokens": {
                         "text": "a",
                         "position": {
-                            "left": 329.0,
-                            "top": 769.0,
+                            "left": 353.0,
+                            "top": 385.0,
                             "width": 7.0,
-                            "height": 8.0
+                            "height": 6.0
                         },
-                        "offset": 682
+                        "offset": 406
                     }
                 },
                 {
-                    "text": "given",
+                    "text": "mecting",
                     "tag": "O",
                     "tokens": {
-                        "text": "given",
+                        "text": "mecting",
                         "position": {
-                            "left": 347.0,
-                            "top": 767.0,
-                            "width": 43.0,
-                            "height": 13.0
+                            "left": 368.0,
+                            "top": 382.0,
+                            "width": 52.0,
+                            "height": 12.0
                         },
-                        "offset": 684
+                        "offset": 408
                     }
                 },
                 {
-                    "text": "yeat,",
+                    "text": "in",
                     "tag": "O",
                     "tokens": {
-                        "text": "yeat,",
+                        "text": "in",
                         "position": {
-                            "left": 401.0,
-                            "top": 770.0,
-                            "width": 42.0,
+                            "left": 430.0,
+                            "top": 382.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 416
+                    }
+                },
+                {
+                    "text": "Spotswood,",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Spotswood,",
+                        "position": {
+                            "left": 451.0,
+                            "top": 383.0,
+                            "width": 72.0,
                             "height": 11.0
                         },
-                        "offset": 690
+                        "offset": 419
                     }
                 },
                 {
-                    "text": "some",
+                    "text": "NJ",
                     "tag": "O",
                     "tokens": {
-                        "text": "some",
+                        "text": "NJ",
                         "position": {
-                            "left": 456.0,
-                            "top": 771.0,
-                            "width": 34.0,
+                            "left": 533.0,
+                            "top": 383.0,
+                            "width": 14.0,
+                            "height": 9.0
+                        },
+                        "offset": 430
+                    }
+                },
+                {
+                    "text": "on",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "on",
+                        "position": {
+                            "left": 556.0,
+                            "top": 385.0,
+                            "width": 14.0,
+                            "height": 6.0
+                        },
+                        "offset": 433
+                    }
+                },
+                {
+                    "text": "September 26th",
+                    "tag": "DATE",
+                    "tokens": [
+                        {
+                            "text": "September",
+                            "position": {
+                                "left": 112.0,
+                                "top": 398.0,
+                                "width": 66.0,
+                                "height": 11.0
+                            },
+                            "offset": 436
+                        },
+                        {
+                            "text": "26th.",
+                            "position": {
+                                "left": 188.0,
+                                "top": 397.0,
+                                "width": 34.0,
+                                "height": 10.0
+                            },
+                            "offset": 446
+                        }
+                    ]
+                },
+                {
+                    "text": "Attending",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Attending",
+                        "position": {
+                            "left": 240.0,
+                            "top": 397.0,
+                            "width": 67.0,
+                            "height": 12.0
+                        },
+                        "offset": 452
+                    }
+                },
+                {
+                    "text": "for",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "for",
+                        "position": {
+                            "left": 316.0,
+                            "top": 397.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 462
+                    }
+                },
+                {
+                    "text": "Kinberly-Clark",
+                    "tag": "ORGANIZATION",
+                    "tokens": [
+                        {
+                            "text": "Kinberly-Clark",
+                            "position": {
+                                "left": 345.0,
+                                "top": 397.0,
+                                "width": 105.0,
+                                "height": 12.0
+                            },
+                            "offset": 466
+                        }
+                    ]
+                },
+                {
+                    "text": "witl",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "witl",
+                        "position": {
+                            "left": 459.0,
+                            "top": 397.0,
+                            "width": 28.0,
+                            "height": 10.0
+                        },
+                        "offset": 481
+                    }
+                },
+                {
+                    "text": "be",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "be",
+                        "position": {
+                            "left": 496.0,
+                            "top": 397.0,
+                            "width": 14.0,
+                            "height": 10.0
+                        },
+                        "offset": 486
+                    }
+                },
+                {
+                    "text": "tte,",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "tte,",
+                        "position": {
+                            "left": 518.0,
+                            "top": 398.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 489
+                    }
+                },
+                {
+                    "text": "Azeez",
+                    "tag": "LOCATION",
+                    "tokens": [
+                        {
+                            "text": "Azeez,",
+                            "position": {
+                                "left": 549.0,
+                                "top": 398.0,
+                                "width": 43.0,
+                                "height": 10.0
+                            },
+                            "offset": 494
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 112.0,
+                            "top": 413.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 501
+                    }
+                },
+                {
+                    "text": "Frear",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Frear,",
+                            "position": {
+                                "left": 143.0,
+                                "top": 413.0,
+                                "width": 42.0,
+                                "height": 11.0
+                            },
+                            "offset": 505
+                        }
+                    ]
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 195.0,
+                            "top": 413.0,
+                            "width": 19.0,
+                            "height": 9.0
+                        },
+                        "offset": 512
+                    }
+                },
+                {
+                    "text": "Cartwright",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Cartwright,",
+                            "position": {
+                                "left": 225.0,
+                                "top": 412.0,
+                                "width": 81.0,
+                                "height": 12.0
+                            },
+                            "offset": 516
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 315.0,
+                            "top": 413.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 528
+                    }
+                },
+                {
+                    "text": "Natina",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Natina,",
+                            "position": {
+                                "left": 346.0,
+                                "top": 412.0,
+                                "width": 50.0,
+                                "height": 12.0
+                            },
+                            "offset": 532
+                        }
+                    ]
+                },
+                {
+                    "text": "and",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "and",
+                        "position": {
+                            "left": 406.0,
+                            "top": 413.0,
+                            "width": 22.0,
+                            "height": 9.0
+                        },
+                        "offset": 540
+                    }
+                },
+                {
+                    "text": "Ur.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Ur.",
+                        "position": {
+                            "left": 436.0,
+                            "top": 413.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 544
+                    }
+                },
+                {
+                    "text": "Moskal.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Moskal.",
+                        "position": {
+                            "left": 466.0,
+                            "top": 413.0,
+                            "width": 50.0,
+                            "height": 9.0
+                        },
+                        "offset": 548
+                    }
+                },
+                {
+                    "text": "Currently",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Currently",
+                        "position": {
+                            "left": 534.0,
+                            "top": 413.0,
+                            "width": 67.0,
+                            "height": 11.0
+                        },
+                        "offset": 556
+                    }
+                },
+                {
+                    "text": "will",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "will",
+                        "position": {
+                            "left": 112.0,
+                            "top": 428.0,
+                            "width": 29.0,
+                            "height": 9.0
+                        },
+                        "offset": 566
+                    }
+                },
+                {
+                    "text": "be",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "be",
+                        "position": {
+                            "left": 150.0,
+                            "top": 428.0,
+                            "width": 13.0,
+                            "height": 10.0
+                        },
+                        "offset": 571
+                    }
+                },
+                {
+                    "text": "represented",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "represented",
+                        "position": {
+                            "left": 173.0,
+                            "top": 428.0,
+                            "width": 81.0,
+                            "height": 12.0
+                        },
+                        "offset": 574
+                    }
+                },
+                {
+                    "text": "by",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "by",
+                        "position": {
+                            "left": 263.0,
+                            "top": 428.0,
+                            "width": 14.0,
+                            "height": 12.0
+                        },
+                        "offset": 586
+                    }
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 285.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 589
+                    }
+                },
+                {
+                    "text": "Chakraborty",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Chakraborty,",
+                            "position": {
+                                "left": 316.0,
+                                "top": 428.0,
+                                "width": 88.0,
+                                "height": 12.0
+                            },
+                            "offset": 593
+                        }
+                    ]
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 414.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 606
+                    }
+                },
+                {
+                    "text": "Litzingec",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Litzingec,",
+                            "position": {
+                                "left": 445.0,
+                                "top": 428.0,
+                                "width": 72.0,
+                                "height": 11.0
+                            },
+                            "offset": 610
+                        }
+                    ]
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 526.0,
+                            "top": 428.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 621
+                    }
+                },
+                {
+                    "text": "and",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "and",
+                        "position": {
+                            "left": 625.0,
+                            "top": 428.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 625
+                    }
+                },
+                {
+                    "text": "aysetf.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "aysetf.",
+                        "position": {
+                            "left": 112.0,
+                            "top": 443.0,
+                            "width": 50.0,
+                            "height": 12.0
+                        },
+                        "offset": 629
+                    }
+                },
+                {
+                    "text": "\u2018The",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "\u2018The",
+                        "position": {
+                            "left": 180.0,
+                            "top": 443.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 637
+                    }
+                },
+                {
+                    "text": "topics",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "topics",
+                        "position": {
+                            "left": 211.0,
+                            "top": 443.0,
+                            "width": 43.0,
+                            "height": 12.0
+                        },
+                        "offset": 642
+                    }
+                },
+                {
+                    "text": "for",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "for",
+                        "position": {
+                            "left": 264.0,
+                            "top": 443.0,
+                            "width": 20.0,
+                            "height": 10.0
+                        },
+                        "offset": 649
+                    }
+                },
+                {
+                    "text": "the",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "the",
+                        "position": {
+                            "left": 294.0,
+                            "top": 444.0,
+                            "width": 21.0,
                             "height": 8.0
                         },
-                        "offset": 696
+                        "offset": 653
+                    }
+                },
+                {
+                    "text": "mecting",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "mecting",
+                        "position": {
+                            "left": 323.0,
+                            "top": 443.0,
+                            "width": 52.0,
+                            "height": 12.0
+                        },
+                        "offset": 657
+                    }
+                },
+                {
+                    "text": "are:",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "are:",
+                        "position": {
+                            "left": 384.0,
+                            "top": 446.0,
+                            "width": 27.0,
+                            "height": 6.0
+                        },
+                        "offset": 665
+                    }
+                },
+                {
+                    "text": "1",
+                    "tag": "O",
+                    "tokens": [
+                        {
+                            "text": "1,",
+                            "position": {
+                                "left": 144.0,
+                                "top": 474.0,
+                                "width": 11.0,
+                                "height": 9.0
+                            },
+                            "offset": 670
+                        }
+                    ]
+                },
+                {
+                    "text": "Further",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Further",
+                        "position": {
+                            "left": 174.0,
+                            "top": 474.0,
+                            "width": 50.0,
+                            "height": 9.0
+                        },
+                        "offset": 673
+                    }
+                },
+                {
+                    "text": "improvements",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "improvements",
+                        "position": {
+                            "left": 234.0,
+                            "top": 474.0,
+                            "width": 88.0,
+                            "height": 12.0
+                        },
+                        "offset": 681
+                    }
+                },
+                {
+                    "text": "in",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "in",
+                        "position": {
+                            "left": 333.0,
+                            "top": 474.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 694
+                    }
+                },
+                {
+                    "text": "EER.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "EER.",
+                        "position": {
+                            "left": 355.0,
+                            "top": 474.0,
+                            "width": 27.0,
+                            "height": 9.0
+                        },
+                        "offset": 697
+                    }
+                },
+                {
+                    "text": "2",
+                    "tag": "O",
+                    "tokens": [
+                        {
+                            "text": "2,",
+                            "position": {
+                                "left": 144.0,
+                                "top": 505.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 702
+                        }
+                    ]
+                },
+                {
+                    "text": "Quality",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Quality",
+                        "position": {
+                            "left": 173.0,
+                            "top": 505.0,
+                            "width": 52.0,
+                            "height": 12.0
+                        },
+                        "offset": 705
+                    }
+                },
+                {
+                    "text": "control",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "control",
+                        "position": {
+                            "left": 234.0,
+                            "top": 504.0,
+                            "width": 50.0,
+                            "height": 10.0
+                        },
+                        "offset": 713
                     }
                 },
                 {
@@ -3196,194 +3624,94 @@ WSGI не делал, debug=True оставил. Без нормального �
                     "tokens": {
                         "text": "of",
                         "position": {
-                            "left": 501.0,
-                            "top": 768.0,
-                            "width": 17.0,
-                            "height": 11.0
-                        },
-                        "offset": 701
-                    }
-                },
-                {
-                    "text": "which",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "which",
-                        "position": {
-                            "left": 528.0,
-                            "top": 769.0,
-                            "width": 44.0,
-                            "height": 11.0
-                        },
-                        "offset": 704
-                    }
-                },
-                {
-                    "text": "were",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "were",
-                        "position": {
-                            "left": 582.0,
-                            "top": 772.0,
-                            "width": 35.0,
-                            "height": 9.0
-                        },
-                        "offset": 710
-                    }
-                },
-                {
-                    "text": "carried",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "carried",
-                        "position": {
-                            "left": 139.0,
-                            "top": 780.0,
-                            "width": 61.0,
-                            "height": 11.0
-                        },
-                        "offset": 715
-                    }
-                },
-                {
-                    "text": "over",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "over",
-                        "position": {
-                            "left": 211.0,
-                            "top": 783.0,
-                            "width": 35.0,
-                            "height": 9.0
-                        },
-                        "offset": 723
-                    }
-                },
-                {
-                    "text": "from",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "from",
-                        "position": {
-                            "left": 258.0,
-                            "top": 781.0,
-                            "width": 33.0,
-                            "height": 11.0
-                        },
-                        "offset": 728
-                    }
-                },
-                {
-                    "text": "previous years",
-                    "tag": "DATE",
-                    "tokens": [
-                        {
-                            "text": "previous",
-                            "position": {
-                                "left": 302.0,
-                                "top": 781.0,
-                                "width": 70.0,
-                                "height": 13.0
-                            },
-                            "offset": 733
-                        },
-                        {
-                            "text": "years",
-                            "position": {
-                                "left": 383.0,
-                                "top": 785.0,
-                                "width": 44.0,
-                                "height": 11.0
-                            },
-                            "offset": 742
-                        }
-                    ]
-                },
-                {
-                    "text": "and",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "and",
-                        "position": {
-                            "left": 438.0,
-                            "top": 783.0,
-                            "width": 25.0,
+                            "left": 294.0,
+                            "top": 504.0,
+                            "width": 14.0,
                             "height": 10.0
+                        },
+                        "offset": 721
+                    }
+                },
+                {
+                    "text": "ceconstituted",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "ceconstituted",
+                        "position": {
+                            "left": 318.0,
+                            "top": 504.0,
+                            "width": 96.0,
+                            "height": 10.0
+                        },
+                        "offset": 724
+                    }
+                },
+                {
+                    "text": "tobaccos.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "tobaccos.",
+                        "position": {
+                            "left": 424.0,
+                            "top": 504.0,
+                            "width": 63.0,
+                            "height": 10.0
+                        },
+                        "offset": 738
+                    }
+                },
+                {
+                    "text": "Ne.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Ne.",
+                        "position": {
+                            "left": 114.0,
+                            "top": 536.0,
+                            "width": 20.0,
+                            "height": 9.0
                         },
                         "offset": 748
                     }
                 },
                 {
-                    "text": "SMP",
-                    "tag": "ORGANIZATION",
+                    "text": "R. Frear",
+                    "tag": "PERSON",
                     "tokens": [
                         {
-                            "text": "SMP",
+                            "text": "R.",
                             "position": {
-                                "left": 474.0,
-                                "top": 783.0,
-                                "width": 25.0,
-                                "height": 11.0
+                                "left": 144.0,
+                                "top": 536.0,
+                                "width": 12.0,
+                                "height": 9.0
                             },
                             "offset": 752
+                        },
+                        {
+                            "text": "Frear",
+                            "position": {
+                                "left": 167.0,
+                                "top": 536.0,
+                                "width": 36.0,
+                                "height": 9.0
+                            },
+                            "offset": 755
                         }
                     ]
                 },
                 {
-                    "text": "pragrams.",
+                    "text": "told",
                     "tag": "O",
                     "tokens": {
-                        "text": "pragrams.",
+                        "text": "told",
                         "position": {
-                            "left": 510.0,
-                            "top": 786.0,
-                            "width": 77.0,
-                            "height": 11.0
+                            "left": 213.0,
+                            "top": 535.0,
+                            "width": 27.0,
+                            "height": 10.0
                         },
-                        "offset": 756
-                    }
-                },
-                {
-                    "text": "a",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "a",
-                        "position": {
-                            "left": 706.0,
-                            "top": 787.0,
-                            "width": 16.0,
-                            "height": 13.0
-                        },
-                        "offset": 766
-                    }
-                },
-                {
-                    "text": "x",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "x",
-                        "position": {
-                            "left": 706.0,
-                            "top": 801.0,
-                            "width": 16.0,
-                            "height": 13.0
-                        },
-                        "offset": 768
-                    }
-                },
-                {
-                    "text": "Let",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "Let",
-                        "position": {
-                            "left": 139.0,
-                            "top": 810.0,
-                            "width": 24.0,
-                            "height": 11.0
-                        },
-                        "offset": 770
+                        "offset": 761
                     }
                 },
                 {
@@ -3392,131 +3720,1137 @@ WSGI не делал, debug=True оставил. Без нормального �
                     "tokens": {
                         "text": "me",
                         "position": {
-                            "left": 174.0,
-                            "top": 813.0,
-                            "width": 16.0,
-                            "height": 8.0
+                            "left": 249.0,
+                            "top": 538.0,
+                            "width": 14.0,
+                            "height": 7.0
+                        },
+                        "offset": 766
+                    }
+                },
+                {
+                    "text": "that",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "that",
+                        "position": {
+                            "left": 273.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 769
+                    }
+                },
+                {
+                    "text": "the",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "the",
+                        "position": {
+                            "left": 311.0,
+                            "top": 535.0,
+                            "width": 20.0,
+                            "height": 10.0
                         },
                         "offset": 774
                     }
                 },
                 {
-                    "text": "know",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "know",
-                        "position": {
-                            "left": 202.0,
-                            "top": 811.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 777
-                    }
+                    "text": "Kimberly-Clark",
+                    "tag": "ORGANIZATION",
+                    "tokens": [
+                        {
+                            "text": "Kimberly-Clark",
+                            "position": {
+                                "left": 340.0,
+                                "top": 535.0,
+                                "width": 104.0,
+                                "height": 12.0
+                            },
+                            "offset": 778
+                        }
+                    ]
                 },
                 {
-                    "text": "if",
+                    "text": "plant",
                     "tag": "O",
                     "tokens": {
-                        "text": "if",
+                        "text": "plant",
                         "position": {
-                            "left": 247.0,
-                            "top": 811.0,
-                            "width": 17.0,
-                            "height": 11.0
-                        },
-                        "offset": 782
-                    }
-                },
-                {
-                    "text": "you",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "you",
-                        "position": {
-                            "left": 274.0,
-                            "top": 814.0,
-                            "width": 25.0,
-                            "height": 11.0
-                        },
-                        "offset": 785
-                    }
-                },
-                {
-                    "text": "need",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "need",
-                        "position": {
-                            "left": 310.0,
-                            "top": 812.0,
-                            "width": 34.0,
-                            "height": 11.0
-                        },
-                        "offset": 789
-                    }
-                },
-                {
-                    "text": "additional",
-                    "tag": "O",
-                    "tokens": {
-                        "text": "additional",
-                        "position": {
-                            "left": 355.0,
-                            "top": 812.0,
-                            "width": 89.0,
+                            "left": 454.0,
+                            "top": 535.0,
+                            "width": 35.0,
                             "height": 12.0
                         },
-                        "offset": 794
+                        "offset": 793
                     }
                 },
                 {
-                    "text": "information.",
+                    "text": "will",
                     "tag": "O",
                     "tokens": {
-                        "text": "information.",
+                        "text": "will",
                         "position": {
-                            "left": 456.0,
-                            "top": 813.0,
-                            "width": 104.0,
-                            "height": 12.0
+                            "left": 498.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
                         },
-                        "offset": 805
+                        "offset": 799
                     }
                 },
                 {
-                    "text": "rey",
+                    "text": "have",
                     "tag": "O",
                     "tokens": {
-                        "text": "rey",
+                        "text": "have",
                         "position": {
-                            "left": 705.0,
-                            "top": 842.0,
-                            "width": 16.0,
-                            "height": 12.0
+                            "left": 536.0,
+                            "top": 535.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 804
+                    }
+                },
+                {
+                    "text": "a",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "a",
+                        "position": {
+                            "left": 573.0,
+                            "top": 538.0,
+                            "width": 7.0,
+                            "height": 6.0
+                        },
+                        "offset": 809
+                    }
+                },
+                {
+                    "text": "report",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "report",
+                        "position": {
+                            "left": 589.0,
+                            "top": 536.0,
+                            "width": 43.0,
+                            "height": 11.0
+                        },
+                        "offset": 811
+                    }
+                },
+                {
+                    "text": "available",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "available",
+                        "position": {
+                            "left": 114.0,
+                            "top": 551.0,
+                            "width": 66.0,
+                            "height": 9.0
                         },
                         "offset": 818
                     }
                 },
                 {
-                    "text": "g",
+                    "text": "for",
                     "tag": "O",
                     "tokens": {
-                        "text": "g",
+                        "text": "for",
                         "position": {
-                            "left": 704.0,
-                            "top": 869.0,
-                            "width": 17.0,
-                            "height": 41.0
+                            "left": 190.0,
+                            "top": 550.0,
+                            "width": 21.0,
+                            "height": 10.0
                         },
-                        "offset": 822
+                        "offset": 828
+                    }
+                },
+                {
+                    "text": "us",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "us",
+                        "position": {
+                            "left": 219.0,
+                            "top": 554.0,
+                            "width": 14.0,
+                            "height": 6.0
+                        },
+                        "offset": 832
+                    }
+                },
+                {
+                    "text": "at",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "at",
+                        "position": {
+                            "left": 242.0,
+                            "top": 552.0,
+                            "width": 14.0,
+                            "height": 8.0
+                        },
+                        "offset": 835
+                    }
+                },
+                {
+                    "text": "the",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "the",
+                        "position": {
+                            "left": 266.0,
+                            "top": 551.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 838
+                    }
+                },
+                {
+                    "text": "meeting",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "meeting",
+                        "position": {
+                            "left": 294.0,
+                            "top": 550.0,
+                            "width": 53.0,
+                            "height": 12.0
+                        },
+                        "offset": 842
+                    }
+                },
+                {
+                    "text": "oa",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "oa",
+                        "position": {
+                            "left": 355.0,
+                            "top": 553.0,
+                            "width": 15.0,
+                            "height": 7.0
+                        },
+                        "offset": 850
+                    }
+                },
+                {
+                    "text": "improving",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "improving",
+                        "position": {
+                            "left": 379.0,
+                            "top": 550.0,
+                            "width": 66.0,
+                            "height": 13.0
+                        },
+                        "offset": 853
+                    }
+                },
+                {
+                    "text": "EBR",
+                    "tag": "ORGANIZATION",
+                    "tokens": [
+                        {
+                            "text": "EBR",
+                            "position": {
+                                "left": 454.0,
+                                "top": 550.0,
+                                "width": 21.0,
+                                "height": 10.0
+                            },
+                            "offset": 863
+                        }
+                    ]
+                },
+                {
+                    "text": "uniformity",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "uniformity",
+                        "position": {
+                            "left": 484.0,
+                            "top": 550.0,
+                            "width": 73.0,
+                            "height": 12.0
+                        },
+                        "offset": 867
+                    }
+                },
+                {
+                    "text": "by",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "by",
+                        "position": {
+                            "left": 566.0,
+                            "top": 550.0,
+                            "width": 14.0,
+                            "height": 12.0
+                        },
+                        "offset": 878
+                    }
+                },
+                {
+                    "text": "changing",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "changing",
+                        "position": {
+                            "left": 115.0,
+                            "top": 566.0,
+                            "width": 58.0,
+                            "height": 12.0
+                        },
+                        "offset": 881
+                    }
+                },
+                {
+                    "text": "or",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "or",
+                        "position": {
+                            "left": 182.0,
+                            "top": 569.0,
+                            "width": 14.0,
+                            "height": 7.0
+                        },
+                        "offset": 890
+                    }
+                },
+                {
+                    "text": "better",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "better",
+                        "position": {
+                            "left": 204.0,
+                            "top": 566.0,
+                            "width": 44.0,
+                            "height": 10.0
+                        },
+                        "offset": 893
+                    }
+                },
+                {
+                    "text": "controlling",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "controlling",
+                        "position": {
+                            "left": 257.0,
+                            "top": 566.0,
+                            "width": 82.0,
+                            "height": 12.0
+                        },
+                        "offset": 900
+                    }
+                },
+                {
+                    "text": "process",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "process",
+                        "position": {
+                            "left": 349.0,
+                            "top": 568.0,
+                            "width": 50.0,
+                            "height": 10.0
+                        },
+                        "offset": 912
+                    }
+                },
+                {
+                    "text": "paraneters.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "paraneters.",
+                        "position": {
+                            "left": 409.0,
+                            "top": 567.0,
+                            "width": 79.0,
+                            "height": 11.0
+                        },
+                        "offset": 920
+                    }
+                },
+                {
+                    "text": "{",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "{",
+                        "position": {
+                            "left": 116.0,
+                            "top": 597.0,
+                            "width": 5.0,
+                            "height": 9.0
+                        },
+                        "offset": 932
+                    }
+                },
+                {
+                    "text": "reminded",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "reminded",
+                        "position": {
+                            "left": 131.0,
+                            "top": 597.0,
+                            "width": 58.0,
+                            "height": 10.0
+                        },
+                        "offset": 934
+                    }
+                },
+                {
+                    "text": "Mr, Frear",
+                    "tag": "ORGANIZATION",
+                    "tokens": [
+                        {
+                            "text": "Mr,",
+                            "position": {
+                                "left": 197.0,
+                                "top": 597.0,
+                                "width": 20.0,
+                                "height": 10.0
+                            },
+                            "offset": 943
+                        },
+                        {
+                            "text": "Frear",
+                            "position": {
+                                "left": 228.0,
+                                "top": 597.0,
+                                "width": 36.0,
+                                "height": 9.0
+                            },
+                            "offset": 947
+                        }
+                    ]
+                },
+                {
+                    "text": "that",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "that",
+                        "position": {
+                            "left": 274.0,
+                            "top": 597.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 953
+                    }
+                },
+                {
+                    "text": "we",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "we",
+                        "position": {
+                            "left": 310.0,
+                            "top": 600.0,
+                            "width": 15.0,
+                            "height": 6.0
+                        },
+                        "offset": 958
+                    }
+                },
+                {
+                    "text": "had",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "had",
+                        "position": {
+                            "left": 334.0,
+                            "top": 597.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 961
+                    }
+                },
+                {
+                    "text": "not",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "not",
+                        "position": {
+                            "left": 364.0,
+                            "top": 598.0,
+                            "width": 21.0,
+                            "height": 8.0
+                        },
+                        "offset": 965
+                    }
+                },
+                {
+                    "text": "as",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "as",
+                        "position": {
+                            "left": 394.0,
+                            "top": 599.0,
+                            "width": 13.0,
+                            "height": 7.0
+                        },
+                        "offset": 969
+                    }
+                },
+                {
+                    "text": "yet",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "yet",
+                        "position": {
+                            "left": 416.0,
+                            "top": 598.0,
+                            "width": 22.0,
+                            "height": 11.0
+                        },
+                        "offset": 972
+                    }
+                },
+                {
+                    "text": "received",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "received",
+                        "position": {
+                            "left": 448.0,
+                            "top": 596.0,
+                            "width": 57.0,
+                            "height": 10.0
+                        },
+                        "offset": 976
+                    }
+                },
+                {
+                    "text": "the",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "the",
+                        "position": {
+                            "left": 515.0,
+                            "top": 597.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 985
+                    }
+                },
+                {
+                    "text": "minutes",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "minutes",
+                        "position": {
+                            "left": 544.0,
+                            "top": 598.0,
+                            "width": 51.0,
+                            "height": 8.0
+                        },
+                        "offset": 989
+                    }
+                },
+                {
+                    "text": "From",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "From",
+                        "position": {
+                            "left": 606.0,
+                            "top": 597.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 997
+                    }
+                },
+                {
+                    "text": "our",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "our",
+                        "position": {
+                            "left": 115.0,
+                            "top": 615.0,
+                            "width": 22.0,
+                            "height": 7.0
+                        },
+                        "offset": 1002
+                    }
+                },
+                {
+                    "text": "first",
+                    "tag": "O",
+                    "tokens": [
+                        {
+                            "text": "first",
+                            "position": {
+                                "left": 146.0,
+                                "top": 612.0,
+                                "width": 35.0,
+                                "height": 10.0
+                            },
+                            "offset": 1006
+                        }
+                    ]
+                },
+                {
+                    "text": "research",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "research",
+                        "position": {
+                            "left": 191.0,
+                            "top": 613.0,
+                            "width": 59.0,
+                            "height": 10.0
+                        },
+                        "offset": 1012
+                    }
+                },
+                {
+                    "text": "program",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "program",
+                        "position": {
+                            "left": 258.0,
+                            "top": 615.0,
+                            "width": 53.0,
+                            "height": 10.0
+                        },
+                        "offset": 1021
+                    }
+                },
+                {
+                    "text": "on",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "on",
+                        "position": {
+                            "left": 318.0,
+                            "top": 615.0,
+                            "width": 15.0,
+                            "height": 7.0
+                        },
+                        "offset": 1029
+                    }
+                },
+                {
+                    "text": "reconstituted",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "reconstituted",
+                        "position": {
+                            "left": 342.0,
+                            "top": 612.0,
+                            "width": 96.0,
+                            "height": 10.0
+                        },
+                        "offset": 1032
+                    }
+                },
+                {
+                    "text": "tobacco.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "tobacco.",
+                        "position": {
+                            "left": 448.0,
+                            "top": 612.0,
+                            "width": 56.0,
+                            "height": 10.0
+                        },
+                        "offset": 1046
+                    }
+                },
+                {
+                    "text": "Mr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Mr.",
+                        "position": {
+                            "left": 521.0,
+                            "top": 612.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 1055
+                    }
+                },
+                {
+                    "text": "Frear",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Frear",
+                            "position": {
+                                "left": 552.0,
+                                "top": 612.0,
+                                "width": 36.0,
+                                "height": 10.0
+                            },
+                            "offset": 1059
+                        }
+                    ]
+                },
+                {
+                    "text": "stated",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "stated",
+                        "position": {
+                            "left": 598.0,
+                            "top": 613.0,
+                            "width": 43.0,
+                            "height": 9.0
+                        },
+                        "offset": 1065
+                    }
+                },
+                {
+                    "text": "he",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "he",
+                        "position": {
+                            "left": 116.0,
+                            "top": 628.0,
+                            "width": 13.0,
+                            "height": 9.0
+                        },
+                        "offset": 1072
+                    }
+                },
+                {
+                    "text": "had",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "had",
+                        "position": {
+                            "left": 138.0,
+                            "top": 628.0,
+                            "width": 21.0,
+                            "height": 10.0
+                        },
+                        "offset": 1075
+                    }
+                },
+                {
+                    "text": "seen",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "seen",
+                        "position": {
+                            "left": 168.0,
+                            "top": 631.0,
+                            "width": 29.0,
+                            "height": 7.0
+                        },
+                        "offset": 1079
+                    }
+                },
+                {
+                    "text": "a",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "a",
+                        "position": {
+                            "left": 205.0,
+                            "top": 631.0,
+                            "width": 7.0,
+                            "height": 7.0
+                        },
+                        "offset": 1084
+                    }
+                },
+                {
+                    "text": "draft",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "draft",
+                        "position": {
+                            "left": 221.0,
+                            "top": 628.0,
+                            "width": 35.0,
+                            "height": 10.0
+                        },
+                        "offset": 1086
+                    }
+                },
+                {
+                    "text": "and",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "and",
+                        "position": {
+                            "left": 265.0,
+                            "top": 628.0,
+                            "width": 22.0,
+                            "height": 9.0
+                        },
+                        "offset": 1092
+                    }
+                },
+                {
+                    "text": "he",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "he",
+                        "position": {
+                            "left": 296.0,
+                            "top": 628.0,
+                            "width": 14.0,
+                            "height": 9.0
+                        },
+                        "offset": 1096
+                    }
+                },
+                {
+                    "text": "believed",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "believed",
+                        "position": {
+                            "left": 319.0,
+                            "top": 627.0,
+                            "width": 59.0,
+                            "height": 10.0
+                        },
+                        "offset": 1099
+                    }
+                },
+                {
+                    "text": "that",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "that",
+                        "position": {
+                            "left": 388.0,
+                            "top": 628.0,
+                            "width": 28.0,
+                            "height": 9.0
+                        },
+                        "offset": 1108
+                    }
+                },
+                {
+                    "text": "the",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "the",
+                        "position": {
+                            "left": 425.0,
+                            "top": 628.0,
+                            "width": 21.0,
+                            "height": 9.0
+                        },
+                        "offset": 1113
+                    }
+                },
+                {
+                    "text": "draft",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "draft",
+                        "position": {
+                            "left": 455.0,
+                            "top": 627.0,
+                            "width": 36.0,
+                            "height": 10.0
+                        },
+                        "offset": 1117
+                    }
+                },
+                {
+                    "text": "was",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "was",
+                        "position": {
+                            "left": 499.0,
+                            "top": 630.0,
+                            "width": 21.0,
+                            "height": 7.0
+                        },
+                        "offset": 1123
+                    }
+                },
+                {
+                    "text": "being",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "being",
+                        "position": {
+                            "left": 529.0,
+                            "top": 628.0,
+                            "width": 37.0,
+                            "height": 11.0
+                        },
+                        "offset": 1127
+                    }
+                },
+                {
+                    "text": "reviewed",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "reviewed",
+                        "position": {
+                            "left": 576.0,
+                            "top": 628.0,
+                            "width": 58.0,
+                            "height": 9.0
+                        },
+                        "offset": 1133
+                    }
+                },
+                {
+                    "text": "by",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "by",
+                        "position": {
+                            "left": 115.0,
+                            "top": 643.0,
+                            "width": 15.0,
+                            "height": 12.0
+                        },
+                        "offset": 1142
+                    }
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 139.0,
+                            "top": 644.0,
+                            "width": 19.0,
+                            "height": 9.0
+                        },
+                        "offset": 1145
+                    }
+                },
+                {
+                    "text": "Todd",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "Todd.",
+                            "position": {
+                                "left": 190.0,
+                                "top": 644.0,
+                                "width": 36.0,
+                                "height": 9.0
+                            },
+                            "offset": 1149
+                        }
+                    ]
+                },
+                {
+                    "text": "We",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "We",
+                        "position": {
+                            "left": 243.0,
+                            "top": 643.0,
+                            "width": 14.0,
+                            "height": 9.0
+                        },
+                        "offset": 1155
+                    }
+                },
+                {
+                    "text": "can",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "can",
+                        "position": {
+                            "left": 266.0,
+                            "top": 646.0,
+                            "width": 22.0,
+                            "height": 7.0
+                        },
+                        "offset": 1158
+                    }
+                },
+                {
+                    "text": "expect",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "expect",
+                        "position": {
+                            "left": 296.0,
+                            "top": 644.0,
+                            "width": 44.0,
+                            "height": 11.0
+                        },
+                        "offset": 1162
+                    }
+                },
+                {
+                    "text": "the draft minutes",
+                    "tag": "O",
+                    "tokens": [
+                        {
+                            "text": "the",
+                            "position": {
+                                "left": 350.0,
+                                "top": 643.0,
+                                "width": 20.0,
+                                "height": 9.0
+                            },
+                            "offset": 1169
+                        },
+                        {
+                            "text": "draft",
+                            "position": {
+                                "left": 379.0,
+                                "top": 642.0,
+                                "width": 37.0,
+                                "height": 10.0
+                            },
+                            "offset": 1173
+                        },
+                        {
+                            "text": "minutes",
+                            "position": {
+                                "left": 424.0,
+                                "top": 642.0,
+                                "width": 52.0,
+                                "height": 10.0
+                            },
+                            "offset": 1179
+                        }
+                    ]
+                },
+                {
+                    "text": "shortly.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "shortly.",
+                        "position": {
+                            "left": 485.0,
+                            "top": 643.0,
+                            "width": 57.0,
+                            "height": 12.0
+                        },
+                        "offset": 1187
+                    }
+                },
+                {
+                    "text": "Dr.",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "Dr.",
+                        "position": {
+                            "left": 117.0,
+                            "top": 720.0,
+                            "width": 20.0,
+                            "height": 9.0
+                        },
+                        "offset": 1196
+                    }
+                },
+                {
+                    "text": "J. G. 09375",
+                    "tag": "PERSON",
+                    "tokens": [
+                        {
+                            "text": "J.",
+                            "position": {
+                                "left": 147.0,
+                                "top": 720.0,
+                                "width": 12.0,
+                                "height": 9.0
+                            },
+                            "offset": 1200
+                        },
+                        {
+                            "text": "G.",
+                            "position": {
+                                "left": 169.0,
+                                "top": 720.0,
+                                "width": 13.0,
+                                "height": 9.0
+                            },
+                            "offset": 1203
+                        },
+                        {
+                            "text": "09375",
+                            "position": {
+                                "left": 117.0,
+                                "top": 782.0,
+                                "width": 36.0,
+                                "height": 12.0
+                            },
+                            "offset": 1206
+                        }
+                    ]
+                },
+                {
+                    "text": "R",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "R",
+                        "position": {
+                            "left": 707.0,
+                            "top": 785.0,
+                            "width": 16.0,
+                            "height": 26.0
+                        },
+                        "offset": 1212
+                    }
+                },
+                {
+                    "text": "a",
+                    "tag": "O",
+                    "tokens": {
+                        "text": "a",
+                        "position": {
+                            "left": 707.0,
+                            "top": 877.0,
+                            "width": 16.0,
+                            "height": 14.0
+                        },
+                        "offset": 1214
+                    }
+                },
+                {
+                    "text": ".",
+                    "tag": "O",
+                    "tokens": {
+                        "text": ".",
+                        "position": {
+                            "left": 641.0,
+                            "top": 908.0,
+                            "width": 2.0,
+                            "height": 2.0
+                        },
+                        "offset": 1216
                     }
                 }
             ],
             "source": {
-                "width": 774,
+                "width": 769,
                 "height": 1000
             }
         }
+    ]
+}
 
 ```
