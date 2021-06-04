@@ -51,8 +51,17 @@ def handle_multi_doc(doc_file: FileStorage) -> Dict:
 
     task_1_result_dict = doc_text.to_dict(pages_tokenized)
 
-    "Task 2"
-    "Task 3"
+    "Task 2 - not implemented"
+    task_2_result_dict = {}
+
+    "Task 3 - not implemented"
+    task_3_result_dict = {
+            "source": {
+                "width": None,
+                "height": None,
+                "type": "other"
+            }
+        }
 
     "Task 4"
 
@@ -60,4 +69,6 @@ def handle_multi_doc(doc_file: FileStorage) -> Dict:
     task_4_result_dict = text_rec.to_dict()
 
     return {"task_1": task_1_result_dict,
+            "task_2": task_2_result_dict,
+            "task_3": task_3_result_dict,
             "task_4": task_4_result_dict}
