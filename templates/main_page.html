@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<style type="text/css">
+    #layer1 {
+        width: 950px;
+        border: 2px solid black;
+        height: auto;
+    }
+    #layer1 P {
+        padding: 10px;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Doc Pipeline</title>
+</head>
+<body>
+Upload document(.tiff format)
+<p></p>
+<form action="/" method="POST" enctype="multipart/form-data">
+    <input type="file" name="document">
+    <button type="submit">Загрузить</button>
+</form>
+<p></p>
+<div id="layer1">
+    <p style="white-space: pre-wrap;">
+    {% if args %}
+        {{ args.result_json }}
+    {% endif %}
+    </p>
+</div>
+
+<p></p>
+{% with messages = get_flashed_messages() %}
+    {% if messages %}
+        <ul class=flashes>
+            {% for message in messages %}
+                <li>
+                <p style="white-space: pre-wrap;">{{ message }}</p>
+                </li>>
+            {% endfor %}
+        </ul>
+    {% endif %}
+{% endwith %}
+<p></p>
+</body>
+</html>

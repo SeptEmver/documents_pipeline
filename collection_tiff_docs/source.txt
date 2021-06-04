@@ -1,0 +1,3 @@
+https://www.kaggle.com/shaz13/real-world-documents-collections
+from directory /memo
+
